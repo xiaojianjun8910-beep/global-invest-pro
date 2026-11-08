@@ -9,7 +9,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+ROOT = pathlib.Path(__file__).resolve().parent
 OUT = ROOT / "data" / "news.json"
 QUERIES = {
  "US": '"Federal Reserve" OR "Nasdaq" OR "S&P 500" OR "US stocks" OR "earnings"',
