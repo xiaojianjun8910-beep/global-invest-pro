@@ -1,0 +1,1 @@
+{"name": "Global Invest Pro 全球投资工作台", "short_name": "全球投资", "start_url": "./index.html", "display": "standalone", "background_color": "#f3f7fb", "theme_color": "#1265b5", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
