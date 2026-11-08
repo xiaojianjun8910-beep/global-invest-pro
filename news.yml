@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Fetch and validate RSS
-        run: python scripts/fetch_news.py
+        run: python fetch_news.py
       - name: Commit news data
         run: |
           git config user.name "github-actions[bot]"
