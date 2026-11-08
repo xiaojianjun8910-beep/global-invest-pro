@@ -1,0 +1,8 @@
+{
+  "version": "1.8",
+  "generatedAt": null,
+  "provider": "Google News RSS via GitHub Actions",
+  "status": "pending",
+  "error": "尚未运行 GitHub Actions 工作流",
+  "items": []
+}
