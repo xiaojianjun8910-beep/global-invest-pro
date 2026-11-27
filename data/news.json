@@ -1,808 +1,808 @@
 {
   "version": "1.8",
-  "generatedAt": "2026-11-27T01:45:02.545283Z",
+  "generatedAt": "2026-11-27T12:26:32.938619Z",
   "provider": "Google News RSS via GitHub Actions",
   "status": "ok",
   "error": "",
   "items": [
     {
-      "title": "Kospi Reclaims 4,800 Early in Trade; Kosdaq Rises More Than 4% - bloomingbit",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoMTVTTklqMFNYRWpsTkRrR2g3Y0I0Sm1VZERHR1FNWXd4YXl4NWN1dE9Iekh6MHZSLVNQdkpPU2pwQzZOa0RqYWlUWUlLRzJyQmZSWA?oc=5",
-      "published": "2026-11-27T01:35:27Z",
-      "source": "bloomingbit",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "Shinhan Securities: South Korea's KOSPI Correction Doesn't Yet Justify Bargain Hunting — Volatility, AI Payback Worries Persist - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03T0pDVnY5c1BtTkZCNWZnZ1o2SnFmal9oT3czUkdEd1o3LVhzaEc3SUZDYjQtd0NHY19wUDVBc3dtTDgtUkFXQnVhVlFFaVlvU2ZxaUExbFZTSjZMQ3UtNzNuVGdmeG45OVFycEk0WjVWc0V4WFE?oc=5",
-      "published": "2026-11-27T01:35:00Z",
-      "source": "BigGo Finance",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "South Korea's KOSPI Battles Around 4,700 as Tariff Relief Fails to Offset Thin Trading - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DaUdfV0xVRml3V3c2ZXRQWkxCaEdBTHRmNlBLQkkxX1dObzRVZjJlU3NraFlDLTRMLVdIS0V2MDZhSUY3ZTc5TGNNYkVtN1BXZkNkY3ktYVdyS2d2Y2dJcFJiZ0pZSmR1YmZRMWVTdC1XclNWRFE?oc=5",
-      "published": "2026-11-27T01:26:00Z",
-      "source": "BigGo Finance",
+      "title": "Premium Comment DSV, Kuehne, Mærsk & DHL – forward earnings power gauge - The Loadstar",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVUtWTdmWVRBUDlPV0tfUjFnb2FjUENTc1dKYmpDcWZydUlPY0FZd2xKeWU5UEtQeUFfV1ZrWF9rVkZsN09xV3k3b0ZNeGtUQmZ4RDJjazBiblIzVkdBamRmdzdlUEI5NDBfU0k5UHdmNDlWNTFPbHRUWHdacTRoZw?oc=5",
+      "published": "2026-11-27T12:24:22Z",
+      "source": "The Loadstar",
       "importance": "重点关注",
-      "market": "KR"
+      "market": "US"
     },
     {
-      "title": "ChatGPT Stock Picks Outperform S&P 500 With 22% Gain - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUE9EamF4SE00bHhzazZPQkRPMEFDSk1rY3FxRVljSW9jYUdKeU1vREo3U2FDbTFMN2hmSmhwZ2VjODZnRFlLU0N5QmJVZTgtaGQxcmdRNC1vRmFiQUx2cjlJdWM3YnFUTkUyT0tCSjUtZXZqcHM0Nk5Hd21hZEhlOTlwVmxxOXBUUzZIRTJR?oc=5",
-      "published": "2026-11-27T01:18:21Z",
-      "source": "조선일보",
+      "title": "Earnings call transcript: Meituan posts Q3 2026 profit as shares slip 3.6% - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTjhlZWZ2ZHhjVlVhX3NHQTBZbVVkU0ZDOWdBSUJLcHJQVmp5aWdidlNfT2owdHdoYklHNUVJc09DcDZuSmdfYjRtN1Bic2JHem1FSUdoZU91ZWcycEROV1NjTExtVVVpT1VxX1lpTHNRN3JxWVpvY3ZYYVFpdmk5Z3FhUVozWUZIRWUzV2MzSEk3QmhGbF9jWUJBNEV4NnhoWFktOTFjN2VTZWpVLW9DcjA1bFNwa0ZmcnlxelBlald2SXFZNUE?oc=5",
+      "published": "2026-11-27T12:19:06Z",
+      "source": "Investing.com",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Infleqtion Q3 Earnings Call Points to a Bigger Computing Business - Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVdldFdEREg0SjFfalR5MDEwT2VkRUNzeEFuWUt4ejFmdFJNQ3N1NkRfdldzTnJOQXNlaEU1UW1wLVFkcGRZb1dmM1pqZUFEc0dnLU9nRUJTMjZpa3VJWUY2WXNOWXE4OEp4V0lhS2NlM2l0NGptak5GSGpjTmZxNFRsSU5lNEJ5SldseXBRbi1XUUwzek5LS0RDSzA5VEFTbGkwS2FSVmtuZw?oc=5",
+      "published": "2026-11-27T12:17:30Z",
+      "source": "Zacks Investment Research",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Okta Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPaFd3UW5ESVBGQjRRanM1a1ZzNllBYzZzeGphYzVBZVRpQURxZVg3eGRmRThlMlgyVkhWYlJmbEFZT182WEhtYVkybkNRNlhyTWhRZkp6QW9OZjE1MXJUMXZfLTVpdXJ6V0V2Nzg5SU5GSFMtTVBlR0VNVTFKOFRzRHVIYWdMUzQ2ZVJrVm9IWjlCd1BWeTBRZXc3a2RLSlFhd2I3UG5PdWJjeGtNY0QyZVhBN0w3NlFzekc5UTZkejI2Tl9GY01abzNoZlgxb2hSam9LWl9YU0wxVENVcEpQVHhhSUI3MHF2THVTNDhyejFVcS1GRmEzZWttZklfQTlFNEE?oc=5",
+      "published": "2026-11-27T12:10:07Z",
+      "source": "Benzinga",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Nasdaq futures surge as investors pile back into battered AI stocks - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX0VKdzh2RGZJYjVla0lZLUtoRUMwNVQyb0ZhM1NSQVE5YWd5dUFxdGpHdzhNR2ZFODVUT01kMU5NMW9weEYtM1FfWFJ1T3BSN3pWamlUNFROckc2cG1uMUFaR3FtTndWdmxnM1liRElDN2pkOFFrVUNmUkI4WU9RVHdLc2lQYnoya0F6RTN2V0Vyc0QzT1kyd3dyb25UY2phQmFJdF82eEJYTlh6SWdBczZuNmRIVnRhTG5mbjFTVXJrZV9WbkVpN19zVFlIZ2tKMWZB?oc=5",
+      "published": "2026-11-27T12:07:37Z",
+      "source": "TradingView",
       "importance": "一般财经",
       "market": "US"
     },
     {
-      "title": "Bank of England warns of $4 trillion AI-finance link - 재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFR1NkLTVoVXdhVzU0X19RNEhVM1JIODhjRlRMWGwwUDkxT1duX29ldnlOd2xlRVIydHdGYlBURmhvMG9Fb00tZGlhWGRRb2ZMNkttX1d6N09mQ0d4NWxraWt3?oc=5",
-      "published": "2026-11-27T00:55:06Z",
-      "source": "재경일보",
+      "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTm5DeGJHejVWUHhCa2RES3A3NklOdlY0WUM0UnVOYjBkWTRGaldZQUlvLU12ZWUyQ3VfT3F1RnhXVEFxWEhPZnFXQlF2WEYxMUNfUWFVRUtDampTbWc3RlpUc1JiQ0JZZDhSaU80WUdKanh4bFRSRzBNOG1CRFl4QWtIMlB6QmpTbWZ5R2RjRnRRRHFzbDhkbHVXcWJpNzhZOVBveXp2V0ZmRC1HeTZJM2lNTdIBuAFBVV95cUxNaWstM2xzU1BIS191TkZCaXhOaEpBUkQ5OTlKNU9GV3hDRWRndjBxWXlxbTRxckhlTF9nT0g3RlNXWjR5STg5RnFGM1pia2MwS3lJYVpYYUJOUzlZWkZSVEo1N1h5TzJWejY2UjNSa1dyaS1pd0o5bGluYWMzNWJabnVfNm5hR1llVEZxOG9mVVlEaEJtOTRER0tMRFdxaUpCUm1iS0FZSGRpS1hHLWphaDZaYmd5NW1x?oc=5",
+      "published": "2026-11-27T12:06:17Z",
+      "source": "CNBC",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "SMA Solar jumps 5% as Berenberg sees backlog driving earnings upside - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFI3MENkaG5PTHU3NjdicndwZGdYTkZLNXJha0kxWVF2RVV5MnlFaU5PdTZKMjgzZk1xT2NCX3BzN3NjYXpRSlNfcjlEYUFZYUVrTWVuUGgwelY4NmNrOUo5UC02enNjZk5GWGhfRW1oV3Q1LWk4Z2VaYUk5NmJVWDBZRnB5Z3pUTHdROU0wUnZZNUtNNzRNSzA0WUs5bGhNYjhPMDBvUXYxdXFJbDJxM2s0ajExNFRKZE1VeEZ1QXlnZw?oc=5",
+      "published": "2026-11-27T12:05:44Z",
+      "source": "Investing.com",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "12 Health Care Stocks Moving In Friday's Pre-Market Session - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1FnR1duWmRnU2dVejBUWkhwc3poM041MEU3eHgwNVpDV2lZRHlpQlBKVlQyaGZzWllZdm9icE90am1tdVdrWFh6YVlaYmMxa3c2Wl9JLWVzbzI5aWVIa1ZSWDZlejFXQTAxQ3l5N3RJN3pqUlEwd2FtWkZIVU9OeTBHNzV2RXBwMnBXR1c4bEdhcFJLUjhIMExuTEtCaVFVbmpTa3FBRjBjQkJ0SVg5UHZPOXNDeUZP?oc=5",
+      "published": "2026-11-27T12:05:32Z",
+      "source": "Benzinga",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "12 Industrials Stocks Moving In Friday's Pre-Market Session - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMVhXVHJ6ZndUVFNweEFkVE5Qa1BQMVlIYlRrTlh5ejNlTEFVa0p0Y0JERTJNRkhmNEVNVVUyQllDNmpjMHhUVWRWSnhZQ080M0UzaDBSYjlXOEgzVHA0QUlQQlJOdmRCd2lxU2NkUjRIVE56cmUyWXpvU19VU3VyX2V5ZWlTSDBmUkE5bFBaVTZxTUN5UHdGWTFmakZDNV9Tc1Y4NzdnbFlxc1YwRVUwekgxckpQWGdN?oc=5",
+      "published": "2026-11-27T12:05:31Z",
+      "source": "Benzinga",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "BBVA to delist shares from London Stock Exchange - The Paypers",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzZaWi1UTjZZOHpYS3RVazFPdGZMSlgxc0lDVW1JSnA4d0hCY2ZXdmNSam1oaldRd1pydTlZZDNlay1JQmhZSmU4WkdIS2V4VVdIazhyanlzVXNvblIxNEgyNlNDblh0S1Y5R1ZMZlM1bDlrQzAxeXhfa3hBMFJub0tjUWRMV24tMzZ3cnAweEdaNTJIVllIWjd5VlUzNHJtZFlidEthMA?oc=5",
+      "published": "2026-11-27T12:03:05Z",
+      "source": "The Paypers",
       "importance": "一般财经",
       "market": "UK"
     },
     {
-      "title": "“Mag 7” Reported Lower Earnings Growth Than Other 493 S&P 500 Companies for Q3 - FactSet Insight",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazNUY1YtUndtNzJXUVRnblRaUUd2U1B1QzhoWHViZ3MtMGE1a2ZDTEgyY0dWdlhhUklSaUpKSmVVSS03ak5qanFjalZsdkhZLWYtODc0MlM0ZXVPQ1ltemVxUi1UWDFUNUJjRUVpQldNMXlEY3BnQ3Vad0NBWWE4QzdEb2dUbFFDS0p6UWZKY3JXSUQ5SW5tNFpiaGU0MG9nZ0FqU01n?oc=5",
-      "published": "2026-11-27T00:45:46Z",
-      "source": "FactSet Insight",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Japan and South Korea Stocks Both Turn Lower After Opening Higher, Kospi Falls 0.34%, Kioxia Gains Over 3% - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLUxvMmYtdkpYYnNVZ0pCWUVhZDlHUDlyT1MxNVdYSVFVMWFHcUhwcURFdEY5WWVXVHE5UFJ5XzItYkROLVA2ZDE4a2ZBV3VwZXhkRzVITEVKMzM1M3QwWnYyN05TQ0M0OFg5eFUxYUFoSHJLOVJCVGMyeUxncU10Q09jOUVaVkZ6TU44Y194Yl85VFNXVmtzdzMwVzZhYnhfaU1oRy03N1oxaXN5VWc1TXNpRmZ5OGJQaW1RN2FXVzRQaXo2bllJQzBBTXV6cmZqZlNGbFJlZXl4ZTlp?oc=5",
-      "published": "2026-11-27T00:37:46Z",
-      "source": "TradingKey",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "HKEX Says Trading In CCIAM Future Energy Halted - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbGplV2hvejZOVFpUa2ZOMm5UMXdCa0RpV0pGanVneTlvNF9PMlVZbWNrU0ZCYkxWM3owZFN0em9FUzBMS196endBOTVuUTk5U2FfUXpacjhucENoR3VDSUlMUTJGRGRMMGs2cDI2MHNhdUc1QnlyMU5DR2R0NG1sOS1JQjZqM3VSZ0h5ZjdzcVZkbjZCRGJSNDlvVkRlOF9VOEgySTY4bVktWFN0bUpKeW5wdWp5NDRf?oc=5",
-      "published": "2026-11-27T00:37:00Z",
-      "source": "TradingView",
+      "title": "Hang Seng Index surges over 500 points in afternoon trading as tech shares rally￼ - Dimsum Daily",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1FFNTAydGJ4UVNtbWN4Q0JjRzJFeXkxb18tYVJsbHZ0WTdHR0E5a1NpRjZwYXN2dHdKc0VmQ2dZT0ZxMWJkR014SlR3N1ZvNTFyZ3BqeDRjbWM1Nkw2WXBHaVdjdnZCRDgtMlJpLVAwSF96UWl2c1RfU1pELWhQdmpEZDVYODVJaWxLWEJTU2hZZktvTmVlMmlaRGZaM195MDFPeVlTV2hXWXFvQkRkR0U5VzZ0WGox?oc=5",
+      "published": "2026-11-27T12:02:11Z",
+      "source": "Dimsum Daily",
       "importance": "一般财经",
       "market": "HK"
     },
     {
-      "title": "KOSPI fluctuates around the 4,700 mark… KOSDAQ rises 3% - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zbXRFdll5cTkxSnQtUkstWjhuekpKclNoX2Z2QVZFYTB0ODkwazZObnF4VzNVaHNGV19JSjgzdFhMWWdva0dVTkpPc0xNeTBreDFoLWN6a1VoQVlBd1NJUTdRdXdGX21hdTVjVQ?oc=5",
-      "published": "2026-11-27T00:36:23Z",
-      "source": "머니투데이",
+      "title": "Stock Futures Rip on Thanksgiving Night as S&P 500 Futures Top 7,300 - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSzhlanF3R2dnNW9HeUh2cU5TWTlkWEtXMURLZmRJNXVZSG96WXM1enlhUmtyUlpQV3NsRlRyOVRTdXBIdUNncXpNNEJuLXZ2VC10SC1LLXpmZHpOd3VZUWQyQ2pTRlNLVTZjeDhzRXpFMzRzd3pzZVc2Qno4aDZvX1p4OUNlSzBTcWR4d3ZEVlhoNkk2TWJSVVBGbkhvSUduaHNnZkRQa1pOeU12S09N?oc=5",
+      "published": "2026-11-27T12:02:00Z",
+      "source": "24/7 Wall St.",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Kospi rout wipes US$151 bil from South Korean pension fund’s assets - The Edge Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uR0JSdGtUYXdMMWlDMm90VEZWdGtBXzRZS2ZEcnR4UmtRUjJoWDNIVVhhNnVqVWc2U3EybEthbHppZTMxTlZydzhkZGRpOHZG?oc=5",
+      "published": "2026-11-27T12:00:22Z",
+      "source": "The Edge Malaysia",
       "importance": "一般财经",
       "market": "KR"
     },
     {
-      "title": "[Photo] KOSPI Swings Up and Down - 아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiTEZOcWJQTXltX2Q4T3lUYXlEdWZFQTFxcEU4YzFYeG5Ub05kQTdPWnNwdDRXQmhhZDhiUG5MUHNjYTJwejQyOHJjT0Z5QURtTzdMc0FLbFZ5dENEbmE2bG5Qd0M?oc=5",
-      "published": "2026-11-27T00:32:27Z",
-      "source": "아시아경제",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "KOSPI fluctuates near flat as AI chip restrictions weigh on stocks - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFZGRlFpLWZZdmJoc3ZfQTJJekxVT1ZrZjRlU3Zkb2VYQ3RoX0dQWFIzSkhRcVZSQnhyTmRtYWdHbVlSSmp1cWxNMnhYd01OM2pmTVlBcmlOeUxxOFdsMlp6X0xXb3NBdElRbmF5Z2docUZkbzJtQkFHdmJNRXZuLdIBlAFBVV95cUxNNEJVT0RHaEhkLXpzQUxsZ25mZWUwa0daYzBZak9MT1RsbGx5cFd3QjJZQnFNY0ZVejlLaC1EUFRDZk1JeFZ5RzVzRGtwSFNrTjFIcmZ0cXU3X21tZWZNOUtzbjNVWTRERFZqNnpqcnJkc1NLOTM1Ym4yNEpwUExTRl85cmJnZ0dONUszOXRNeUNhSEF3?oc=5",
-      "published": "2026-11-27T00:31:00Z",
-      "source": "Chosunbiz",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "Kospi opens tad higher amid continued AI jitters - Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcmxMYWdqaUQwR2RLdnJDc2FPUXNEc1JoVXk0WGJfbF96Y01RQnRvWFhWQldtSTdLNWZlRmpfZnFMU2ZtYTBsMjFVU3lOV0pYTl9hRlJ1bE03UUZYVXA4VUJNQ2xZUFFyX3J0QmxJNkdtUzBQTWFrR1JsdmRHQmJhWW5Fb3BJNUlSMWRvNmVPNXNocUhLZW5WRkxQaFV4ckU?oc=5",
-      "published": "2026-11-27T00:30:44Z",
-      "source": "Korea JoongAng Daily",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "KOSPI Nearly Flat Early; KOSDAQ Up Over 2% - 아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzeTlYNzVwMmVlNnF1R2ctUHlGVzByS0k1dTFTZXB2TENYanZtcUxzbTZyRnhvLVRZTWR5NHVzR2lfdTl5bVFFbFNEOUZYVU9TcHhmTndtX0lPajdRNVFpaE5kS2s?oc=5",
-      "published": "2026-11-27T00:27:23Z",
-      "source": "아시아경제",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "KOSPI Opens Higher in Marginal Gain, KSDQ Rises Over 1% - news.sbs.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EX25kQnhzOElPVFhvVXBTUWgzQ0o1aUFNWmFFYjZZYWJoazU0bERCM2J5dmw1SDU3Ty12ME1OYjBLZ0s4SHlwY3dxZFJzRjd1R1Q2Tm5ldGh4ZG96TDhtY0RWNElKR1ctQ3pDWkN3?oc=5",
-      "published": "2026-11-27T00:25:48Z",
-      "source": "news.sbs.co.kr",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "China Tech’s Earnings Offer Little Relief in Worst-Ever Year - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUJSUUhRT3Y1UGkyMWhvSFdGM1VWdE1hOGx0Vm81cjc4ODZRRzRyUXNBSUoxckxyb3czeGUxd0VUUFdVOHNfeHdIc0JURTBXNzVvNml4YS1HZnNGZ3ZSSDRzMW1DZkhTMncyMDJHQWFCeWxMS010TXdhY0ZnNm1LUUY5T2NFYXRsZmIyREVMcGwtemg4TVBtMEIyWUg4SnhuRktfNFZ6cEFxR2g2MnhsQw?oc=5",
-      "published": "2026-11-27T00:07:00Z",
-      "source": "Bloomberg.com",
+      "title": "Next Week's Big Earnings: DG, RBRK, DOCU And More - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbVZsZDNWTDFkRkllLUxuRlVZWWVMaklSb0VGOHRPell0WjMwYk1PNXFvVHRSSTBmNVJXUVJsOXRDbzNaaXhsQWp6bTRTNGRSQjZKYUZlQzNJQTZtOUJacWpJd1VFS3JyakRnVEZyMGJBRWhPUXpjZUdYY1lUNEo0X2xYM2ZvLXhqUTkwNGJTN3p6OGM?oc=5",
+      "published": "2026-11-27T12:00:00Z",
+      "source": "Investor's Business Daily",
       "importance": "重点关注",
       "market": "US"
     },
     {
-      "title": "KOSPI Opens 0.37% Higher at 4,728.80 - Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUU53c3d1NFV3a21LY1J0TU10WnplcUhMdFZ5Tl9zSXZDRFFBR19PVk01WlE1Xy1xMTU5UFpNWEpXTmZ3NktValNCMW1laEhRanhRU0lWU1JXU191U3lfYjdzYkhvQ2p3WERuQkppX0FzMDR0WDNtRkZaX3dDY2wyWm9KRWdtQmRR?oc=5",
-      "published": "2026-11-27T00:05:03Z",
-      "source": "Seoul Economic Daily",
+      "title": "PXS Q3'26 Earnings: EPS estimate is 0.24 USD - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUxoSm4zREF3VFNYY1VfeHhyNGFRaUEzTnJPVzE4S1ZRVGhabTRjTzJYeWRaNExNY3Z2cXpfVUpUWjJTQ1NDdFVNYVJDWV9TSUVnSzRZRHhEaHZOaGlaaW1GbDAweWsza0FxOEk0cXowdHVxQ0pKbHNodmg5SmJDZ0RtcXVfNjlHRS1sM0JscDNJTUdpUFdPZy16RS1VSFRLcVpZOWp6Tkg?oc=5",
+      "published": "2026-11-27T12:00:00Z",
+      "source": "TradingView",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "AVXL Q4'26 Earnings: EPS estimate is (0.11) USD - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMy1PNFhXcU1kRUFXaTJGZmE5MHFrNjFYTHd4c2JRR3BpMFZSb1VnSlhseVdPZHRsek0yLTh1TDdSeThCMGJpVlpSTDVvTDhhOU9hWV9sajI0TEFFeVRJV1FrYVJUWGVYTGRnMDdvRjk2RUlDMWNfVGl2ZTJIMWVfMHVmQlVuSldDQVNUNk9oblFwVTRmRWc0anRuOE0wVWU0MUN0RFFJS1puUQ?oc=5",
+      "published": "2026-11-27T12:00:00Z",
+      "source": "TradingView",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "HMR Q3'26 Earnings: EPS estimate is 0.04 USD - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3NqbFgyLVdGWUIya2t2OTA4ZFY3SHFIN1BjT1NYWjV2emstR3F0R2ZkdklFang5NXJXUWw3b2w5NEk2dUI5U1lvYXl6ckNyaFN6NkxDeUE4ZS1QQlE4NmExMURYalBNMmFYcmZvOUVaclZuTXotV25aak12c0xpXzFra1VFRVE3eGJwa3FLd2oydFFDVkZKVHFvajFpTDZ4Z3FEeTByRzM?oc=5",
+      "published": "2026-11-27T12:00:00Z",
+      "source": "TradingView",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "NNE Q4'26 Earnings: EPS estimate is (0.28) USD - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV01Falk4NTNLYmJ2MHVGakxxYmRfclJpNDIyUE9HR05PX082enpBSzdUZVFXOElOSHJIRk9pRmVmTTF6OVZCRVJYcjJNMXJ4V1V4ZUdJR2sweHVwcmVVMk9oNHNpbFlWY0hQRUdPbjQzLTY1Sk1OZTVabmViSVdjQzRMVEs5Nm1TUEdDNjJJQ01YSGhtY0I2d0Z3YXdOekxZNTNUbkR0SEw?oc=5",
+      "published": "2026-11-27T12:00:00Z",
+      "source": "TradingView",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "BOSC Q3'26 Earnings: EPS estimate is 0.06 USD - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORm54SjFhbFlSbW5zZVhBWTdmV1lYWkd1RDZ2WFVUTlNTMnFRQ2FIMWc0VGtOUUpTZG4wb3dHTmdHMFo0MGstSlBpc0VzQ3dyajhYTHpITGtFUVd4ZEg5V3hOYXlTbFRWdXExbEd5T2JyZG4zVm1DcXFORHJQek14SVpfcmRhVnpQbUZoa3pneEFCLWhaaDVaeVBDcVdmc0U0N3FsUjgtRGVoUQ?oc=5",
+      "published": "2026-11-27T12:00:00Z",
+      "source": "TradingView",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "RBRK Q3'26 Earnings: EPS estimate is 0.08 USD - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPelZWVmxNSVF6dS1ZdC16amdiUzduank4c2VaOVBZR1prMkhFRXB3SzlNQXlxUWtrdGUzeGdlODZEZTZSQlYzanE2SU9xN2F0S0lPclM3ajJVSk1YS3dFQ09XWHV3ZFVmaTNRNHMyNGJkSTZENnhHVXdybXFkUHVJS0FVeDJSQzN2MUtSZlljMFRDNzA3ZlE1UEtxVURfMnVpRHB1cUN2VFVRdw?oc=5",
+      "published": "2026-11-27T12:00:00Z",
+      "source": "TradingView",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "KNOP Q3'26 Earnings: revenue estimate is 94.35M USD - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXgwN1E3ZjFwV3NaT2hCbEM4SlR4WTlUVl9ZOTdyYjdDREJkcldGQ2ZBYUlVZFpzQU9YRzlTTUkta0ZVNWFQaGsta2Q1ZDVVQzdRUjFtdW1hR2RTSjNTS1NKTTJaa01KbllDNlpER2YydHNyeE9VVDRkVWQzS19ua3I3bVdKR2tKeHNrNFBPYUVhR2JDMlZHb09tbmpOdXNqaUp5ckIyS3RvdmpOQ3ZoOEN3?oc=5",
+      "published": "2026-11-27T12:00:00Z",
+      "source": "TradingView",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Kroger Earnings Preview: The Risk Is Another Guidance Cut (NYSE:KR) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYS1XSFFFRUtuTzZHNms3NVpaRlVIM2xKc3lvbjl1WGMtSXVlal81dXdMWXdMekV2NkczSnhZalRVMjY0eEEzVE1ncHpyYXl0UUE1ZDBuLXVfZFhUUHpzcVp1eTZmTXloS2ltME1zTnAyMlloOWVTMDNIaWpySWNCT1hjemMyT1VJTW5CR2FkQVRCd1hFb1Rxel96OVVGdw?oc=5",
+      "published": "2026-11-27T11:58:40Z",
+      "source": "Seeking Alpha",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Asseco Poland Q3 2026 Earnings Call Is Live - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSXhOcXVBZ0dqY0ZCTVdCaWZEWlNJREdpazVvZUdlN1J1YUhRZG01aGlRVHgtYUZ0YTZ4Rnl6dU1LeHdxQ1AtSFZReWxSMEd2V1hpWXpJWjBDMW4wSDZUSGcweGtMaTBDU3UtdEc0dE8wejVzLTdCSzhWTVhHZFo1aUNYNHpiSVBPd0x5MVYyVEhuRmwxRTNwdmF6ekVoMEQwbExnR2p4S243TTlZNjN0QjR3?oc=5",
+      "published": "2026-11-27T11:57:03Z",
+      "source": "TradingView",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Will South Korea’s Stabilisation Fund Hold Up the KOSPI? - Disruption Banking",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmY4NURISmxqc0E3bVFHMExQWnZ0WWZVRDI3eWRIcF9CZEtJaVlvNkdQeUxXY21tUlJFRzBJS0JWSEVYa3dzVUJjOWN4elI1bUE0RDN6b2l1VGJVd2dvMkNtbVAxTXlGaHBQbk9CU041NmlyRDY2Rkd0WWxJWGZGdmQxMkM2QjJjYW00dFQ1N1VoYkF1UW1FMUJjbmlMX3BwVHc?oc=5",
+      "published": "2026-11-27T11:54:15Z",
+      "source": "Disruption Banking",
       "importance": "一般财经",
       "market": "KR"
     },
     {
-      "title": "Banks forecast strong growth for Chinese stocks by 2027 - PrimaMedia.ru",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1c0N5OEFwV3JhTS1LSWRLYTFuQ2JvT2UtR29aYXJvclNQS3FDLWdxdUZMY3NaeG9sZkdUU1hhcjJkYzdEM3V1ampZSQ?oc=5",
-      "published": "2026-11-27T00:04:00Z",
-      "source": "PrimaMedia.ru",
+      "title": "Holiday Sales Poised To Cross $1 Trillion As Nvidia (NASDAQ: NVDA) Governance Storm Clouds Linger - Foreign Policy Journal",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS05FeFhvR1FvQ3ZHOHoweHlMYW51a0NEcnJwNEdyR0ZxSEcwam80STVyazBlQnZtdW1lMDlVLW9YdVJwWDdwRkx0UVpMYW9malFLa1JaeUV0ODE1Xy10Uk5QLWVZQm01VU8xT1U4YjVqdngxUGVJeHRVOEtOb2FkRmpSRFlyZmZubXpDVTkxbVdQT21uUkNnLXlfdTRhNHNxUXhTQzNkam9vZnRxZEczVkpsajNpcTFNS1ltdExTUUtuX25Cbkk3TkZaVUNraGRjTW1wTHVEMlJqdw?oc=5",
+      "published": "2026-11-27T11:50:00Z",
+      "source": "Foreign Policy Journal",
       "importance": "一般财经",
-      "market": "CN"
+      "market": "US"
     },
     {
-      "title": "Bank of Korea Lifts 2027 Growth Forecast to 4.1% on Chip Boom - Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbjRoSDdPbUJQSy00eWFzbE9reVMzVkxtY2prYVdwQXpmMUt6VnBicXJ1QmNkZnp1UGU2Vk9Gd0E2eEZPdnBOcHcxbXhaekJGOWhsRGUwa1FUS2JheDdVaTdTajl4RG1FWTk5WkxnQ0hzMW9hS2tfWXhHU3h0OHl0SVNPMS1QaUVzT2t1UjRpRU1uNDBZeHFIcVZQRUxlcURf?oc=5",
-      "published": "2026-11-27T00:00:30Z",
-      "source": "Seoul Economic Daily",
+      "title": "Capital Flows | Southbound capital snaps up HK$4.6 billion in Hong Kong stocks, significantly increasing stakes in Alibaba and China Shenhua - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTZqQ0FnYVBialRodWVxeFJ5cllLLTlDeGtOYXlKbVNTRFZwSHhESHE2d0k4TlR4cEFrZ2J0YXpWZHN3T3doOEJqS3ZRNHR0VXkzMW9WUVZqLTh4MHdMMjlYN1A1ckFTVkc5bDh1TFN4S1ZTVWZVemdpLXplWUJEdGxxUC1WdFU4WDNBdVdvODY1OGJmR0V2anFWVXVWSFJU?oc=5",
+      "published": "2026-11-27T11:46:25Z",
+      "source": "富途牛牛",
       "importance": "一般财经",
-      "market": "KR"
+      "market": "HK"
     },
     {
-      "title": "Bursa shrugs off Trump's latest tariff threat, but bigger risks loom [WATCH] - KLSE Screener",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkRFSWVsTVhOMHRDRGdrdHROcXFJNE5VOGNJWlZwSjZ6RlAwa0dQUlRCdExHcHVVeTBMdW5xM1E5SndNOENfQ3VuS2VKQnRfSFUzRVZGZHc3aWVCUVJXa2RXd2dwYjRiVWR1R3lTZ1hHeFl2WmVGYXpvd2pqbEFTU2h0LU9vdklWdURMV1JxcUxCYWZXRnNIVFJONFFuMS10QmtFb1VIUmxkQ2w1WGl1R3pnU2NNQ01VZ3AxcGlTbkI?oc=5",
-      "published": "2026-11-27T00:00:22Z",
-      "source": "KLSE Screener",
-      "importance": "重点关注",
-      "market": "CN"
+      "title": "Britain's FTSE 100 heads for best week in 8 months; miners, banks rally - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFRCSGhuNWlueUFObDgwZDBGenpUODhVdkhrQWtra2lxOWdNVldJZXNLVnRQNldMVTdaTmtRNUNjM3hndjJRYmtUNXE5c2p1TmMyaVVZY1M1a2dSX1Bfbm00ck8zamF0SkVUc0p2ZkM0Z0pfVVIyU0VzeU5vYklZRkxDUnBxZ3cwbktSQmROQVVacnlWekpNY3hLS2IyampaZEJPMFJ0X2dIQQ?oc=5",
+      "published": "2026-11-27T11:41:43Z",
+      "source": "Reuters",
+      "importance": "一般财经",
+      "market": "UK"
     },
     {
-      "title": "China shares flat as markets struggle to shake off tariff gloom - Business Recorder",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DcFBqRkV4WXdZSEc4OHY0LXF4ZGhNZ3dsSC1haHQ5N0dZUmw3ZUJuRDlaMmM4MDRUb1VmWW1TbkN2ck5mT0x2UTFnX0VSTUtOVEpYbU1n0gFWQVVfeXFMTUNwUGpGRXhZd1lIRzg4djQtcXhkaE1nd2xILWFodDk3R1lSbDdlQm5EOVoyYzgwNFRvVWZZbVNuQ3ZyTmZPTHZRMWdfRVJNS05USlhtTWc?oc=5",
-      "published": "2026-11-26T23:56:54Z",
-      "source": "Business Recorder",
-      "importance": "重点关注",
-      "market": "CN"
+      "title": "Britain's FTSE 100 heads for best week in 8 months; miners, banks rally - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54Y0NZZEJxRzFyM1BBZTBkYjhUampmZWdZLWd3TFVSdENOc00xcjFUdzd4aDlaVWVZSVZobEZGejB6ejFtb3B3bmpHT0ZiQ3ZpWTFzTTkwT29JQXR0MFBNdkVJcGVfNUdTUERLOG54X1RrWnY5UHFZRzAwSTY?oc=5",
+      "published": "2026-11-27T11:40:48Z",
+      "source": "AOL.com",
+      "importance": "一般财经",
+      "market": "UK"
+    },
+    {
+      "title": "Britain's FTSE 100 heads for best week in 8 months; miners, banks rally - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOXhneDJKcjZZemxXUTBtcnA5U1lJQjlmdF9OalJOVGdZVUlOZ0dFRGczRy1Ea2w0Szd4YTR6MWdQc0FtY25xWnV1bVdqbzNsbV8tNUZBSzZ1cjJ5RVpnd2QweVhnVjFWTkZsZXRrbEg0TWNmZzljaVBTV25tbV9ZdFRHMXBOQjV1U2xsT2hDLXhMRk1jMk5zZGpYLUVBNHBWTk1MTTFkb1p3amtLeDl4bEFNM2VvOG9xQXMxM1NzWQ?oc=5",
+      "published": "2026-11-27T11:39:51Z",
+      "source": "marketscreener.com",
+      "importance": "一般财经",
+      "market": "UK"
     },
     {
       "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObC1aVl9wd1oxYktYZFRnZjVBMHFrS0ZPMVV3UzdacGU1SHh2clYzeTZXYTROc2ItcjhMVUFFZDlMUGkxUXg1TnNKcDRvdUZPVmo2OUduaTc4dHFqVE9BalVvRmJVWndMMWtvbHAtREJQQ294cDc3cFcxdF96OF9pY2dKWDBnLWN2M1AyeUtKLVhHUEp0Q20tSVJPM25ITXY4dFlfakdfMjE5RUJiMGRaZ3llUWZrRVlMZm5NVFcwWmhWdjFhX2YtckNpTTdsV0Nld3Vz?oc=5",
-      "published": "2026-11-26T23:34:00Z",
+      "published": "2026-11-27T11:37:00Z",
       "source": "Investor's Business Daily",
       "importance": "一般财经",
       "market": "US"
     },
     {
-      "title": "Let’s do lunch: Hong Kong exchange aims to keep noon break, sources say - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0FLeWR5azJKbkszRU9tVVcyam5OUFVHa0RKYWJTNUxGLTlXUVo3Y0lldmUtbGNMWlBRTGg2VVlKQ2lPTXF6dDNCd2piVTNZODhBelZMRDVVZHFuVU5vRWIzQ1A5MkpDNTJmNTdKYU04UzY5M3NJNk1SajhGSGFmb0hiSk1iSnh6WWszcjh6SWhfQ3N2QmFQMGdMVjdabkxwUXVQTkZGVllBamptV01uQW4zR1JiVU9tV3Z5ZExJTXo4M01mV25DaHVOZE4za0pacVVSa0Zn?oc=5",
-      "published": "2026-11-26T23:00:10Z",
-      "source": "South China Morning Post",
-      "importance": "一般财经",
-      "market": "HK"
-    },
-    {
-      "title": "Bank of Korea Resumes Rate Hikes, Further Increases Also Expected [1-Minute Brief] - 아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QY3I4UXl2QllxaDl3VlZNeUJyRnU1TjdmNzd4ZE4zSXhGLWptZGVmVDRSZUdPOGpZMWpleG5JQUdkaXJHX3RxSHBCYWpNdHdCbFJWTlZfUUJrOGRMTk1BUUV3a2U?oc=5",
-      "published": "2026-11-26T23:00:00Z",
-      "source": "아시아경제",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "Prediction: These 3 Consumer Stocks Will Beat the S&P 500 Over the Next 10 Years - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWRpVG5Kcmg0NWVIMG5xaEEyZ1p3bjMyX3dXOGR1WnJicWpZZWFPcjRUdExaTU5WbFk3MXRwOHVzMXNqZDNkNUM2QVB5VzlFSW95SEtKZmtmSnJrZURPNDRiLUhIUk56TDdpOUh3eVo3aFlpcWN0LVRuSlRVRGxDVTQxODdQbzlFbG9vN3lnZjE0bEQ0dGxkd1ItdnI5VW8?oc=5",
-      "published": "2026-11-26T22:50:02Z",
-      "source": "Yahoo Finance",
-      "importance": "一般财经",
-      "market": "US"
-    },
-    {
-      "title": "AI? That's nothing. There's a bigger tech threat now, says Bank of England boss - This is Money",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEp0bTdEUEdockJOazg5RXRYT09UYjlwQ3lUU0IxdElZa1k4dmlPWGgwWEdrYUNUbUVRRlhCWWhEbWRhbUVSQ1I0Vmx0WVFVT1BfTXhHdFBMTmN3V0lFa3RHcDFLV1pEUTZqb08yV1gwREE3b0UtWERfd0FkLW1rZDF2aHdKdUhJQ093VUg4VG1ybUMzOE9famFDRFhMaFVkZTVEa0tMX1lkSm91MzJuVXhYS2xZN1l5ZEVMeWpUVG4?oc=5",
-      "published": "2026-11-26T22:45:50Z",
-      "source": "This is Money",
-      "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "Nasdaq 100 Futures, European Tech Stocks Rise as Kospi Rebound Hopes Build - bloomingbit",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54bU90RTUzQ213VU9ONVZVdGhsaTk3cVQyY3phM2QwTFdvTzRGck9Cd01mXzVvMnVCSEJEWXZFQk45Qm1KM0JCQVlhcGY2eTF3TzFZMQ?oc=5",
-      "published": "2026-11-26T22:42:41Z",
-      "source": "bloomingbit",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "MongoDB Stock (MDB): Wells Fargo Says Buy Ahead of Earnings After Positive Customer Survey - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUpXQ2twVkRhd2lwSGx5UHhDWlZ5b25rWGw3ZEpydkJmcDh6SHVEY2pNZk9jcjVkeTJtY2N5Qm9SWWhjWi1ydjdKSU5IS0g0cW9DQ2E2aFBJTUxmU2JXMkU3d0x4RGxKaFhXSHQxcVBNYi1uSHhCM0M0RGRFMUVIRVhYM0FPRmV3WTY2aFBBVkhqTnYzc0NYV0Fn?oc=5",
-      "published": "2026-11-26T22:26:28Z",
-      "source": "Yahoo Finance",
+      "title": "Salesforce Before Q3 Earnings Release: Should You Buy the Stock Now? - Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFGay1hRWg3WFFsZVZMck9BRzhTVWpGd0JWWk53WEk3TFBYNjBBVk92WGx3eGtCVmdVU0sxMWpMT0ZrYnduR1BsQnVRUnkxQmhxOXZFRmk2b0JpTjFVMmw3cVZoNl9fb054SnExTXpGbHFYeE55eWlJRXNjcEItWjZyQ2x0M0d2eUk3dW52RnVaQkUtVHFrTjhkMmRKWkhOVmpOZDI1ekExODQ?oc=5",
+      "published": "2026-11-27T11:31:14Z",
+      "source": "Zacks Investment Research",
       "importance": "重点关注",
       "market": "US"
     },
     {
-      "title": "Bank of England Warns AI Debt Boom Could Expose Tech Giants to $4tn in Obligations - CEO Magazyn",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWF9NNXJTM2lhM3lndVBiektncHd4cXdxNFpDclBDRS1CN2Z1TkNwUmZHaklIUllzbEVKX0hYZWltUng3anFNUkJjTGU1SXRtNTJ1ci0yMXZaT0xtV3UzWEhhLTh1VmxoSEhaYWlCQWlET2g1R1Y4dWRIZDB2YzA0TDgyd3FDMnc?oc=5",
-      "published": "2026-11-26T22:23:04Z",
-      "source": "CEO Magazyn",
-      "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "Banks may pass £1.5bn tax hike on to customers, Bank of England chief warns - Yahoo News New Zealand",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkUmx5QVlNMlJrUHh4eUpEOEpJUTg4NXhsYWtvMHZKbUZmQlljdWtiLXoyZVl4RVZlck9rMEFPOFREZDRhNC1ELUVoN3otU3VCVFktamNuR1F3MzlvWGJMVzFEVHRzN1RZbzc0N1h3?oc=5",
-      "published": "2026-11-26T22:17:54Z",
-      "source": "Yahoo News New Zealand",
-      "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "MACOM Technology Solutions Holdings (MTSI) Stock Looks Pricey On Earnings Today - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc183aEY1ekdQVEduendfUFBjaExXQjJDT2Qxb1ZHUzhUYVkxRjRvQlJIcmUzdm5JSm9Bc3dSZ1NybWx0MTd1X3ZWeEFKVks2X3ZFT1FjemRkTHNpdWhJcy0tREExQ1R2ek1Jcm9iRnljZTZUNUoyUUJoYzdNVVNRYW8taGhkMDdMYjNOWTFsVGlENlBzRDdIWF8xYk5uNVlheUF1N002QXg?oc=5",
-      "published": "2026-11-26T22:09:39Z",
-      "source": "Yahoo Finance",
+      "title": "Cipher Shifts Toward HPC Leasing: Can It Achieve Stable Earnings? - Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVi1xajJuajVydGNPSG5JZVVkMnozZ2pUelBBbUJHS19RLVJ2Z3p4RzRpd09sakJlVnJ1c3FaZzFUQjFqZ1dyalRsWTNHT280aDUxeHNSWTIyOGNqQURDaXBzVldNelhDbTl2Sy05d1g5NG02UjRJXzY4TjBTZUFvZjVvV1VOLVk2ZkRaRUFLMXd6M0hrSmdoQU5DS0ZFWDAzSC1fYkRqdw?oc=5",
+      "published": "2026-11-27T11:31:14Z",
+      "source": "Zacks Investment Research",
       "importance": "重点关注",
       "market": "US"
     },
     {
-      "title": "SSE Composite Flat at 3,476.88 as Banks Hit Records and US Tariff Threat Caps China's Rebound - BBN Times",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOREo5Y20zQkdVVlU5YUhDOUt2RHFrT1k3aXdwTndHS25EVEY1NUtZcm9Ib1JoZFg4OUhKeUNvaFU1Y0s1LVdDU3FmSG5GUXA4TnpRSy1UanJYUEp1NHFOenBXOFdMTmtSQlBYcFR5dWF6d19KTlUwUjJLdWFDQ19IaVZKRWZ1VzFzWlVWWFF6b3dWY2pPQmhYXzVzTHJuSTc5NjV6X2lwZzNTS2VwM1h4ZWc5TU11QjZWZjBuYm9aS25sZHpEbGVz?oc=5",
-      "published": "2026-11-26T22:06:54Z",
-      "source": "BBN Times",
-      "importance": "重点关注",
-      "market": "CN"
-    },
-    {
-      "title": "Technical Analysis of China Southern Hang Seng Technology ETF Units (SSE:520570) - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uQnQ1YUE4SlpiVVM5RHdWbXdFQVZiMnk0cG5NSjN3bU1EcTQzRjFZTzE1ODh5dDlSU2tSUXozbjQtMmZjbUF6OWdEcHpGS1AzVDY1REhUNnF6dGJHdmpPZ3V4ZURES29SOGc?oc=5",
-      "published": "2026-11-26T22:01:09Z",
+      "title": "Marvell Faces Critical Earnings Test Amid AI Chip Market Turmoil - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3Z3eGt5MUVZZlJMek1XR0lKUldsOUVJVVNFTkd1R18xaFlIZGpzWDlJZGJMVllqdFdMMlk2eG1WR3dkM2JwV3VxeWptUm11d21WUHZmc2tEbnIxeDFWX2I3QmNEYW1UZUtHcERlX25HcFY5RFlqaFlPaVhLOUZzUE1XWE1FTzJyWUxKdHNNdTY4aUFkX0FlLUF5QWVfd2ZfTzdLUHJVYkM3SnZRUUFzeFdGVFpPc0RjcGxoQ1VJa2VFUQ?oc=5",
+      "published": "2026-11-27T11:23:08Z",
       "source": "TradingView",
-      "importance": "一般财经",
-      "market": "HK"
-    },
-    {
-      "title": "AriBio Bets on Direct KOSPI Listing, Targets Late 2027 - Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdi0yMTJ2b3c3ZXZBczUwdVMtVHlqWGtyNzZxN3d6dUF6emR2ajVNT0xXaDNGaVRaWFZXT1E0YjRCRUZFekNHZjRuSS1WTTNnUHlZckZGVTdzcjJjWkttT3NGZEhGZkNYSzZIdlJRcTJOYmdCNFdLT1JYdGVXUHg4SWJRY1lDY1Z0Ql8xcEtlRTdYaUhzcmFSeWg2amk?oc=5",
-      "published": "2026-11-26T22:00:11Z",
-      "source": "Seoul Economic Daily",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "Technical Analysis of UISEE Technologies (Beijing) Co., Ltd. Class H (HKEX:1511) - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzeWdweGdVblVrUFJmQldtdjFFazVVSHl5a3dlNVl3RWR5Y1F0d3ZLQVFpdmlRZU0tMkh1X0pVX1cyQzg5bVZxWjczUTg3LV9maTVEcGUweEJTVTF0ajc1RFk0MFNveXBJ?oc=5",
-      "published": "2026-11-26T21:48:43Z",
-      "source": "TradingView",
-      "importance": "一般财经",
-      "market": "HK"
-    },
-    {
-      "title": "Kospi’s 6% Rebound Trap: Sharp Rallies Have Been More Common in Bear Markets - bloomingbit",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Vakt2bUVrS3ZVQURwWFFQb1Rwd3h5YzJmTFg4UV9vaC03RGk1aDFEVEQyb196Qm9zV3ROZkNZYjk5UjNzSnZ1bzJ1OFNhV3N1RlBwUg?oc=5",
-      "published": "2026-11-26T21:48:37Z",
-      "source": "bloomingbit",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "Bank of Korea Hikes Base Rate to 3.25% Third Time - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbDI4YnM0NF9rTk5SZEZPMlotTDkzYWRPcE1yQTFvVi1Yam51bFVfZDNEMDJCQXdZbWZ2bWFMVmlySVRTczNweFVDQ1ItYV9pQ1h2ZExTUXpWQXRxalAwZ3h3c3RKaEQ3OF9SRUU0RllTdXRPMnN0eWozREE3MXhoaWtPejlaTjVxeS0xTkhn?oc=5",
-      "published": "2026-11-26T21:38:03Z",
-      "source": "조선일보",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week Highs. Here's Why They're Still Worth Buying Right Now. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXZxM0NXdzJCNTJPamZxS0M1UHpVY2QtX0hvckJ5YVZfSmZwWm5uUHZ6RUo3Z2VvOS1ZOHAtSTljTWFrdTRzOEJPdlpSZU5uZm5jRGQ2QTBtZjUzZ3hVVmRsZk5oWWlJVUFNMzVPd1RGUlZFTzFxTndHVUpnY0RnM3Y4WmVMSDZkcU1MOEk0azRwQ05VUnJzY01GUi1sN040Z1UyZ3JR?oc=5",
-      "published": "2026-11-26T21:33:02Z",
-      "source": "Yahoo Finance",
-      "importance": "一般财经",
-      "market": "US"
-    },
-    {
-      "title": "Korean Won: Bank of Korea hikes, story strong – ING - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdG1DdTB6QWlfdFpTQ004MVo4a2c4ZTNlcE1jYjdSb3g4UnJhSGNWY0FDQjVlR012RFlXSm9XUXlrcnZDRVl4TUhIZEJxcDh4ZGlqamN3QkJPall4Q3RNYUVzSW5zcDdaX0RvaEM0MXdDNVFfai1pNDFPQW45T194VmM0cHQ3eno2cmphZjJCcC11cTc0?oc=5",
-      "published": "2026-11-26T21:12:34Z",
-      "source": "FXStreet",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "3 Japanese Founder Led Stocks With Earnings Growth Up To 13% - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm9mT2tHUTl4WG1NaEI1NUh3TDJkaWxSTVJHMnEwSDFBWVpjQVlWdlRPd3lUWkt0dE9VNHJZN21GV1RSVjl1QTRJTFdSZGs2cFM1R1pFZDJfbUx0Rnd3ajFSeHBHeHAzVDRNMWFTbG5BcGxpNUJuYXFJckpCbmxTYk9oWjBHSjlKWHFWM1ZuWXFVX2ZUUDI3Mm13?oc=5",
-      "published": "2026-11-26T21:10:33Z",
-      "source": "Yahoo Finance",
       "importance": "重点关注",
       "market": "US"
     },
     {
-      "title": "While stock trading has lost steam due to the recent plunge in the stock market, short selling has b.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxenM5YXNVellUalZHYUZ0VTZwTVlnc1BtTHdOb2hZUkhOU19oVzM2R1hmNzRJdjZIZDZmVkFqd0dTVlpmR0QyNVk2ZWJyT2s?oc=5",
-      "published": "2026-11-26T20:55:07Z",
-      "source": "매일경제",
-      "importance": "一般财经",
-      "market": "KR"
+      "title": "Asana Likely To Report Higher Q3 Revenue; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObmZvQ1lGOWJGclRIeUFsZDc2QmZpcGNHY1J3MXNwaEVuMUZFd0k5WENpN3ZERDZaUmpUTmFybXBrTFVDSEhObzBaRklJNUlnS18tcmhtdVZObS03ZlVpc24xc2QtYlpwdEs2X2JsUWlneXdnd2NNLWJNQUJ0TmFmaUNoTFN4VVQ4RGJFam1za2Y3QlNXZFhOSkJVQUJfT28zRE5QNVYxSG5ETmJPM0tJQ0kzVEpjREhSX2pmYmYyYk5iNDVQRnFpb0V0MVlMemFoYllJaWI4M1NaRUs1VE9KVi1ObUNUdWFIVmhLVXhJSEtiUXhaOVQwaWh6UWNNcmR5dkE4Tm1MMUk5dUtyTkxmYXNB?oc=5",
+      "published": "2026-11-27T11:20:05Z",
+      "source": "Benzinga",
+      "importance": "重点关注",
+      "market": "US"
     },
     {
-      "title": "Bank of England warns of rising financial risks from AI borrowing - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3Q2x6cU5vSHgyR2JpWmR5RmRMT3lEbTlJZzkzSjBpQVJyS0xZLVltd09uZU05UG5WcnNWZ3V3VUk0RFBnYXo0S2Q2ZU9OSXJMT3hGMl9qYXFMMG96TEFyN2tKV2ljUHRHWmhadWNUX3dQWTV4V1pr?oc=5",
-      "published": "2026-11-26T20:53:31Z",
+      "title": "S&P 500 futures jump nearly 2% as AI jitters cool - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJX0psMzI5VDA3YVl1VjRtaXJaN1FySnhnXzBXNFZuazlwQ1oxcEp5OXkwVzdmMDZxQkNoRXpRYU96bmgzNmRjQXlLWHhRbkhnN1JtOWdHeWV6NTl4OG80MFh0aGhpcVdyb1QzT3FzVVJvdFppdGc?oc=5",
+      "published": "2026-11-27T11:19:14Z",
       "source": "Crypto Briefing",
       "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "Bank of England plans capital requirement cuts for largest UK-focused lenders - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82YV9zOVBjTEJWdHZ6M01BZ0VGQ1REdGhMb21IeHNNUHBzdzd6RDBHV09SQWdpM1UxeWZGbDFZdTlHTGExUU01eDRlV0VIbkljOUp1U1B0V3NpOWpSOHIzblFRRHR3T3dpWGxIblBINHdwU2JHRV9tQ2djdkFtNW8?oc=5",
-      "published": "2026-11-26T20:44:11Z",
-      "source": "Mezha.net",
-      "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "West China Cement (SEHK:2233) Stock Looks Stretched Against Its Current Earnings - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcThzVzFuTnlQTDkwamxCYk5BcVNRaHljVjY0N1NsZDlXaTh6ME1FRDdYQlR5Q1pTQTV6VVJNNFRpcHpvVHVBSjZqNWZDMDB1TFhTeHBwNUtCMV94REpWS3NfT3A5SHNRcUE2c09pYTE0ekFteTItM1MxVThaamgwZUctNW1VMGcwLURfRDl3TkwxVm1tZnhV?oc=5",
-      "published": "2026-11-26T20:12:19Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
       "market": "US"
     },
     {
-      "title": "Walt Disney (DIS) Lifts Dividend On Strong Earnings, Is The Stock Still Cheap? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2FOLXhZdG9kUG9WTGFsZ0dGRGhFdndkT3VZUk1WUV9BcVV4X1lhODNkazl4SXdOMjFHam1VWnlTVzVyNk5vWjhvNl81UlFXWVhWNEM1ZlRFOXVtZUt1clh3UENSTUVZUWc0ZnlXeU1SUGtCTkJHQ2hCV0JvTThMSzNyMGR5SW0zeDNsZEdXSC1ockw1bFlPNnJEbw?oc=5",
-      "published": "2026-11-26T20:09:09Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Avnet (AVT) Stock Still Looks Like A Bargain On Earnings - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMFRsbnMyZ3hxY0NvM3ZHYkJrR0luRTlUYkgxWk5ZMWRkdGc5WVNUWTkzcnh6VzI0VDVoc0ZOaXBjbTU5b2RLNVlrVkNVZmtmaXFkVWJFOXpraUowemxBX2UxZnNuTGtoZ0lPc2Q1Y0RfU3JBbUNZVTlGZFhTcXlFbFhwZnlEOGtwbHktdWhxWGxFTmVnSmk0?oc=5",
-      "published": "2026-11-26T20:08:19Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Beijing Sinotau International Pharmaceutical Technology Co., Ltd. Class H Revenue Breakdown – HKEX:9941 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MS3dlVzl5dU1EV2FWeWIwTTk2VWFkbHQ5NnY5ZTIyVjRUN19WbGxNWUstMzVaM3Q1X0xNN19wZ1BzMEg2QWVZaFF3aHFxNlhvLXJtSzU1UTA3NE44VjNQcV93ZUhjSXFlV19XWmtnbWVOREVD?oc=5",
-      "published": "2026-11-26T20:00:55Z",
-      "source": "TradingView",
-      "importance": "一般财经",
-      "market": "HK"
-    },
-    {
-      "title": "Bank of England to cut capital requirements for UK-focused lenders - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1hVUW5HM0hsTUdocHdFaVQxdExNeG9sRWtJNWRjWmlMN2tzdmQ0U29NYkJzdXFuVkY0TG9LV0RIVk9Cc0FWWW95TnBmLUV1d1VKQVVtV3I0NnhaNHNhTkptczlzYnEtMVVXbWFSMVd1YVFXS1BkWXFFRkxNVVlIYUlnVEJqMUlQUlJhY1hTcHNIT2NMQkZtb2pqaHppWmgtc3hN?oc=5",
-      "published": "2026-11-26T19:41:00Z",
-      "source": "Reuters",
-      "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "UK stocks gain as banks, miners advance; Imperial Brands soars on bid interest - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHBCVHZSbldsNWZWOGtVSXBvTW5lX0N6MHhXOFBtb2lubk1oVGhpTzJDaEgtVWtXSUlTTHIxUHBDSW10NzZYZEdZazlWRTBxRUN3Y2p6TzdtWXdIdkhBRHlCMUFZMF9hRWNkUGVBXzhmaXZzME1YcGxOSnc2bUtfdXc1X2ktSk1KbkU1QjJuV0V4TG4tV1duMTBDWUZDUHcteDRuX3ZvV3pWOWFlX2tydWR5VEozN1Mw?oc=5",
-      "published": "2026-11-26T19:16:09Z",
-      "source": "Reuters",
-      "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "Cavco (CVCO) Stock Looks Fully Priced Given Its Earnings Backdrop - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU0VBNllyM3lrSkg4QkpCTlZ3Rk1XemVVSDFaRjc0UkJYRHJxeWpfMEMweW5LcF9iS1o1OWVuV0tRR29pRXNVbWs1UGY3eWFlXy1KTGRIWGVFZDhTMF84MjBhMndfTk9pcUZ1ci0wd01xM1E3NWYtN0hBbGRoUDJBWThfOA?oc=5",
-      "published": "2026-11-26T19:11:24Z",
-      "source": "Yahoo! Finance Canada",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "FTSE 100 today: Stocks post best day in three weeks; Imperial Brands leads - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmhnLUIyb2VhbDF0NXp2S2RDQURLT2tDTjYxMl92UTExaWZyOGExYkFjd2NPeWxHbHdLYnRXU1c3NjA3RjU0ZHdsQ3lKbkNYVFZTVXNTUDUwWmhZdkV2d1BCLWRtcm1YaTV1MFk2QkpjSnpFOWp5VUUzaGZPdXk3LWplT2J4ZHNQZE0xbGpqaUZjZ09jV2o3cDBITlJHbHdRN0Y1ZFZzVWJ6VV96UDVkbmdKZE92MjhYWElPOXFMNA?oc=5",
-      "published": "2026-11-26T19:05:28Z",
+      "title": "Earnings call transcript: Sphera Franchise Group posts stronger Q3 2026 sales, margin gains - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXNTanF3dTd4dF9odmtUUmdIVmQyY1RkMUh3aDVDOGFENGplUUFncWUteWtaX1NYM2NWQ2p0UUtmS1h1OVYtVlNkLTlUeTVkSndHd1pkVmU4UTVaVGI4MWRtVDFGZ21rQVJsd18tS09LTk1aczc1eGwzVE1KSGR5amdkbF9NSnRFX3Z3dGtiN19Idnl5SmVMTWZjN1E5RUVkVnc2RHg3RTZSSnZWakxBbURxYlVEZllvNHR5Znl6YnVxUDFLMmFOYVNlZWgwdlRXMEdiLWxsejVTX2xNckE?oc=5",
+      "published": "2026-11-27T11:18:52Z",
       "source": "Investing.com",
-      "importance": "一般财经",
-      "market": "UK"
+      "importance": "重点关注",
+      "market": "US"
     },
     {
-      "title": "2 Growth Stocks That Lagged the S&P 500 in 2026 and Could Lead in 2027 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdVZIR3RSaVFnTzJjR1c1LVlIaENXb1ZWb1BaYjVoTmRPUkZGYmxPTnRxV0I3QzdQS3BLUUx3Vm9Sdk9pTC1MZzNqWVZxYmx0MUhIRHFaRlJFQ0N2dy02MFZ3RGxBTUE1Q21RZjVuakRRbkI4NkFqSlh4VC0yc0R1dGhmUFRsUnRCOXZYWmsyZlZnTXc?oc=5",
-      "published": "2026-11-26T18:31:19Z",
+      "title": "Is the stock market open today? Black Friday 2026 NYSE, Nasdaq, and bond market hours - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT3FqZWJvamxHT0ZmR0pQcjA0a2Q3enlRZTEwREJwV2s5d2dHWEoyZmxTQmhpcUhNMlV2LWNnWDNVd09OcFhhMWdsU3VEOGhfMDZ0ZTJ1NkFXeG1wc1c1ZlZXN1ZXSlYzdkkzTjUzUW92S2d0U2hVTURyVER4WGppWlhQX1k2bExiY3pZeXZLcjhuellBZmJvSy1WRGhBYXRrUnhQYjlITTN0RU51R2hOQkNFUl95VDdKRV9HS3NZZU4xS0lDeWE3VGNjNNIB0AFBVV95cUxONEg4WDJaQUNJQ2hxU2JwVUJZc0Q1N3B1QmNmOUoyUTVJR2V0WGVBOFctVXQxWHNBenZZeHMtUWlFNWpsUlUxaXVPSlNIV2hTT2RBTTJMMXRZTTMyZ3Rkb3lyWWVic0JpcEhyNHAxeUhOOVNRdDFoMU9yVXJKcF8wZUNyZzNCNjkzRXVkcDVoR1JwRkpNaWc1ZkVKMmx5eFZ5bFBEb1dBODdfalNzS1RaOWVMR1ZrLXBqaHNPZV9pNDFheHk0VDRaUUpiUmNzTmUw?oc=5",
+      "published": "2026-11-27T11:15:57Z",
+      "source": "Clarin.com",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "CareDx (NASDAQ:CDNA) Meets All Minervini Trend Template Criteria With High-Growth Momentum - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcV92bXlGVjNtOUFVUWdZRm1yNjFTcVg1VFltMWotTUZYS1FmeXVPdmw1Uk1qZmNUS0VPV19QcW16SWZpUW8yTmF6eElTUHVQUmVGTnJQMUlXRUVRbkRNVFZnbWp0aW9mcnhRLVp6M19jeFBiRmZaUXpnRzI4bk1oMDg3aDNOOXJqX3RTS2ZVUjl4enpjcm8wWEZKN2xDM3QxSjU3eUFDdlYxV1N3anZ0eUYwWG41THp4SmFVVEVranAxNnlmTWZJNWNaX1dWYXVJSTRQTEV3?oc=5",
+      "published": "2026-11-27T11:10:44Z",
+      "source": "ChartMill",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "BofA Sees S&P 500 Rising 8% in 2027: Are Your ETFs Ready for a Soft Landing? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSHQ2Z2tBd0xZQmFRckZTcWNIdFo2Szh0cnJDbWg5SmpjUHM2N2ZXZnc4cjh5bDNkWEtLc0d1eExRTG9Hcng3ZXR1cXJyZzFlM2pLR2UtV1gxOVlHcWIwT3pxX2xXYWpncFdKekcxT0E4NUVtUTQySFprMmllcHpZMzlxeHkzUDQ1Q1VBd0loUUY?oc=5",
+      "published": "2026-11-27T11:08:00Z",
       "source": "Yahoo Finance",
       "importance": "一般财经",
       "market": "US"
     },
     {
-      "title": "Fears for FTSE 100 as tobacco giant draws US bid - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHloVHlUWHdCcDRxdDZwN3RwYW1KaFdvNU5qNWQ1aE1tUDNYMXBHN1ZOMV84VW1wWDhOM2hUVnBWS1lwYmNIVnJIcmcyeU5PT2ozVEV4eDc0bVFzcGZUT01BMGhMb0xTRC1kVHVvWC1LSkt4OHZQZ0JPNVUxdWhYMVZDYWRpekRleGhraGhMNlRHR3o3dEw5Y2F1aFlQb3hSRVRUTXZJM3JfX1M4?oc=5",
-      "published": "2026-11-26T18:14:00Z",
-      "source": "The Telegraph",
+      "title": "Salesforce Tries to Rebound as Earnings Loom Over Mood - TradingPedia",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVndHQ0lIRW9qZU1kenRUckw4UjFXRFhWeERLV0JhdlRBN0RPaDZXa0FocTZmMjBOUzBjOUZsRktFWFpuX1ZBVC1OblpETG5iUXJfcVhKM0NQVTRJTzBTdUdyUEQwZDY5TlhwTl9FU3FKbmp3OTJtNVRvZnZ2LVZzQnlwbnlEZzg0TzVZNV92RWJIRlhlTmNzaUt6QQ?oc=5",
+      "published": "2026-11-27T11:04:41Z",
+      "source": "TradingPedia",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Salesforce Before Q3 Earnings Release: Should You Buy the Stock Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUNEeHg1Zm9pTDcyeFpiQjV6WkxjR29WQkpzYUlVNkpOV0R5UUVKSVlRR1FGRFpnd1VsUFNNU29MY3AyZ2VaN2VwVW4tVUJnZUkybF81TXZqcjUxTGZvWkR4VUotMFp5eDhFanVncmxrWkcydXpyZldOMTQ4bmJvNnY5V05LVlVNTmJwZXJoblBYSnFaNm5QajR5aVQ3bWxXX0tnb3BXOUFrNTByUGc?oc=5",
+      "published": "2026-11-27T11:04:00Z",
+      "source": "Yahoo Finance",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Nasdaq Futures Jump 3% as AI Stocks Rebound - Kotak Neo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ1VNQkh0WklVVVd6RU9kdUtSRnBoLVIzS0YydmNBejdfVTZWX3VsUGJKbXVmQ1Zsa2pydEFydFIyMm13b3RMLVMxdmx2c0w4WWVtQ3F5YTJpQThWb2FFNFRJLUo5Y0MxX2FETzJJZ05ibkxxYWVNT2h6MEJGWEhTOUcwR2JRMHJOVW1lTzZvVVEwNjU5eXJIQ0FITXZJZw?oc=5",
+      "published": "2026-11-27T10:59:35Z",
+      "source": "Kotak Neo",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Will ULTA Continue Its Positive Earnings Surprise Streak in Q3? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXNFOVQ4VXlrODdHNHBESENkdFowWlctbXFzUzIzSGxHR0NhWUU0NGVmZFlueGs5aU5PQzRfS0hfd2hIZzlYdGs2Nm91MWFERkl2VXctNGpXVTJlT0hGN1lvbV84TjU3S0JVOWRvOFVWdHluNkhwbVc0ZXNDMXRFRElaUjdhVi12d2gwcVdwVmFGUEkwZEhkSkJWZXdkVzhqWHNIVzVoOVQ?oc=5",
+      "published": "2026-11-27T10:59:00Z",
+      "source": "Yahoo Finance",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Purcari Wineries Q3 2026 Earnings Call Is Live - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEY4RFRYWEk5Yndmb21QYnpMQWttcUFxV0hDRzhqLUY0VXVsYldQMjY0STZRZ0NPUFJyMXZ1bVREekdZQjB3aFpQRWNfcWZxeHZnY2NRMWtKRi1HYXhSSXZ2ei0zSFJIeW9qajBCR0NJVWpFb25mQWJVd250OGhQcnJXdUZmQkdhNDlyVUpNOUtqSU5kdVlNR0Q0d3BxczU5UGYzZVhFUzRoc1R2NDhoV3NwMklHdw?oc=5",
+      "published": "2026-11-27T10:57:04Z",
+      "source": "TradingView",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "A 2018-style December sell-off would still leave stocks about flat this year - Opening Bell Daily",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPczNnV0J4QTkxeUdRZHFoS25EZ21iNVJUT1ZWcGNwT0xCYlEtNmZaS0EwSXk2VTMyTW9vZlB5VlFIQW5tVEpGUEJxR1FKV3BUd2o1dnRRN25zZU44VERuREFSRGNjdDhyRXR4dTlrcVhxNW1FVUJCeFp1c1ZkMnFzQnJuZVZCWU5naElkUldBYWtUU1VH?oc=5",
+      "published": "2026-11-27T10:52:54Z",
+      "source": "Opening Bell Daily",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Global shares mostly rise ahead of Wall Street's reopening after Thanksgiving - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVRBVWhkVXhGQk1Edk9vaDNxbk9KWVNmM1hEaktqZWUyUnpXS1d4QzlXMFNFTzRMWV9tX2hrWjJsR1dQb3hOdkNja09KNTNCR2hUYWk0THR6Z3V1OHdKUk45T2duNEE4MTl2eG5TRGhjRy1vZ2dGV1NKNmVQaE9vVko5SV9UOFdHUEdsck1meDRxZm14VkpldDk0aGFCOGZ6c2Z1YUs2NFZ2VWU4ZTlzU2EzOExKc2E1?oc=5",
+      "published": "2026-11-27T10:52:30Z",
+      "source": "KSAT",
+      "importance": "一般财经",
+      "market": "KR"
+    },
+    {
+      "title": "U.S. stock market today: Nasdaq futures lead gains ahead of shortened Black Friday session - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDItMXZXLTlCVS02ODJxQVdDal9IQzNNM0lTZzhJaFBQR0ZLbzZlbjZIS3FnbHRHczBGNlBQM3ZOVTNSVXhRVXltb3dVeFZTOHJhUTl3VEZYWElITHBfXzkxUGJZOXVocTR5ekRyUWFSTXdaaE1NMEJseXN6Y0JOSHNqV1ZueThnb1poakZmZmJFQ25rNDZtWlhGWQ?oc=5",
+      "published": "2026-11-27T10:50:54Z",
+      "source": "Traders Union",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Warren Buffett Wrote in February 2009 That He Buys Stocks Like Socks, When They're Marked Down. The S&P 500 Gained 50% During the Next Year. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSm5KWlNRWnFpQ0h4LUtTSFhKYW5UTjdWLUV0NkE3cXZpZVJfLUJGSFBFdUdtZTM2eHhPcjlsX2kxUmJVdFFFekd6QUhfek54R3lJVWZnM2FEVm5LemxqS05XUzZsYmJVUzRvSTJmRy1od0YzWHlpTmRVLVEtdzlQc0VBNzVuOVB3RVFmY0JFLTVTWkRlMFFGYlp3VHE3eHgy?oc=5",
+      "published": "2026-11-27T10:50:02Z",
+      "source": "Yahoo Finance",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Wall Street Returns to Wrap Up Holiday-Short - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOVl92T3dva1RSSV9rc0JZWXA0ODh2Z2xUZXpnRkNpenpQN1F5UGQ2Y3J5MlZxNUY5Nk84c2l6YXN0NzctYWFxNUdfaHBQaHFSZnBYSWhiWTVEN3pmSm9Ud21LOFA4dEIwRUVzeVg3cF9YdDJiUjNlYW9CajVjOG12aTkyNnRRX0g0RUZTWHBxYzlHcTMyVjZPUmgtM3VGMXVScUVsVVJiZ0RyVlZITTUwclREX3BJckZMZFZ5aVZMV2ltaV8tWjZzcjB6cUlrR25FcEU1bktfUmExUmFfREdGM1A0MG1YYVJOMVgwS2NvMENJcG9IUnlxWEp5Tzhwb1VGVFRKaGVOY3Z0Qi1jRzNhZENudk1FcFJ1SkE?oc=5",
+      "published": "2026-11-27T10:43:10Z",
+      "source": "Benzinga",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "FTSE 100 Large Cap Value Stock: abrdn Dividend Outlook: Can Asset Growth Translate Into Sustainable Income? - kalkine.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQU1jQlh6ZHp4bFA5NXcwamNOcHhYSTZqbEw1Y0VxTmdoaldyQjFfLWRrclJHVVRYRDlVREVzdmZ1Wkh3T2NLV3d2SHZxR2N0Q3dtQmtaTjZMa1RYdWc3RHdWUVRkLXA5QkdXekJkZEtDZ1Q1cGNzc1JzME1GSjBEMVQ4c0JsbFhUWGp4dVlaOGxHSXhJd0lzaElGM2pGbmJ5aVJ5TlBMdHNGNktlLTVTanlRb2J6OFpySURPOFBWYUx3QjVKYlRpbG5vWGN6bEYxXzhKSXFNUW93NFdvZi00WQ?oc=5",
+      "published": "2026-11-27T10:39:00Z",
+      "source": "kalkine.co.uk",
       "importance": "一般财经",
       "market": "UK"
     },
     {
-      "title": "2 Growth Stocks That Lagged the S&P 500 in 2026 and Could Lead in 2027 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMU9CZjhESEpPQ0w3SkhPaXcwVjhlY1FWZEg2cVJadkZ4Mlg3TXlZZ0E2WmZGOHp4V1J2SUZCTE02UGpWc3RURGZrRGF3QmkzR2NMWmVXRTlHZ29hVV9nb2xuNkFCMkpCbko4SXFPUC1zQ0REUk5fbXZEOVd5MmItZ1dwSmtpS2hXYTRFbk5BdDhON1VaTHBOcjBSZjlvLUxXbHlERFdnWTA4YXRQNTh4RW1B?oc=5",
-      "published": "2026-11-26T18:11:19Z",
+      "title": "This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjhhR0s2UVJjdEJNclhuUU9uS1Y3d2d0QnFQa3RtaS1TMzlBaG1aVHpQYzdwV1k1VDhQU1RfNDBXSV9VQnRFSTRYMExjR0JfOFNxMUJCVWhnd2ZtTkZrOFVCQmRCOHp5U2dPcFpUUFE5YWJFdmNwYmw2c2c1YzBtZG1HeUxrVVlPWGlfTDR5Zkx5SHp6c1BlYjAzLWZfclFzMEdKVi1sYUFLeFJEcjVwV0s3YW4zV2p1TUUzTHRQRHR2dDVZcVhJbkp3UGNPMVdMVW5uaGtvV0N0V1FGc1pSWFlVb182MEl2N1E?oc=5",
+      "published": "2026-11-27T10:37:00Z",
+      "source": "MarketWatch",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "2026 Other Systemically Important Institutions (O-SIIs) buffer rates - Bank of England",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONFNOS2tVdVhaUmloOF9NQkUtYzluRVNoVUV2dV9KWHBhbC1LUjBqY2otaGctZUM5TEoySXA4LVpKWlRDQkg1Q0M0Q0xsZVJXVjVkZ2JXdWV2SUs1X1hIbXE1MWNiQUFWanVIaXZRUjJ4MG5UZURqUGtCMzFqUVBxX0xkdDRjcDNyVWM0OUwtUnNOZzJyb19CSU1ldFR0S1JiYlpjbjdtS0hMeXlRajZfc05wd1puQ0hENUpMOVhwdmtnaGN1YTdzSUxQYUZqdHltZGFlQi1yenBOanV5bXN1YjRidw?oc=5",
+      "published": "2026-11-27T10:36:06Z",
+      "source": "Bank of England",
+      "importance": "一般财经",
+      "market": "UK"
+    },
+    {
+      "title": "ServiceNow Stock Stabilizes as Earnings Drag Moderates - TradingPedia",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUo1NzNyQWJfZ3ZkSlZsRVJCd3RiMnRVS09yZmFMZjF0eFJLWkk4ZnJab2xqSDNOV1dja0lfd3JCS1RVeC1KVWFSdlJkeGNPMnh5eVVWTUJ2Rlc0REh3VEJBMVM2MWdDMHM4SUFxM0t3cFZRRGtlak9TcWN2ODQzRGN5cUpOMGlGQzN6RERhWjFiaXlHMm5LVjRpaw?oc=5",
+      "published": "2026-11-27T10:35:58Z",
+      "source": "TradingPedia",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "PANW Tests Post-Earnings Rally Amid Mixed Tech Signals - TradingPedia",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc1hsd3Y4YVEwWW9zY0h3Y24zV01nbDVPZGtBb2l5eDFoWTdtckZGa1U0ZlBsZVN2amJ0ZmhRamdUY2Yza3c2OEFuM1ZPcjk5QkJIbzYtbHd3TjBuc2l2RUY5UTB1bWdneVpFZk5iUE1zUHl6NlF6SzZxWk9mamJmMlBxX3dpQ1RaeTdCYVZXNGtMbHNORHotWE1tcw?oc=5",
+      "published": "2026-11-27T10:34:12Z",
+      "source": "TradingPedia",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Paysign (NASDAQ:PAYS): High-Growth Leadership With Strong Relative Strength and Momentum - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcHZ3M2JoY2IxTm4tR2FidE9GLWhGU0VNYTAzMnJyMm5HcjR5Qm9EZ1lGV3lHYVdvcHEya0JwTlBSczdvaHVRMW5ReHhrVHBwenF0VDRlZTRBbjctRVlZWnhOeUxTelhMVmd5d01ZaEhZQUctREx5cTdCWGdOcmU3Z1c1aDhpcGRsM29nWE4tYzJxcEZDRzJ2WjgtUTZfWUtCVGdScm04ZkNCVGdjZWVUUEZOLW5FeWtYY1NLRUJ5VVlhSEtmYlR1azAwcHJsWXotTXc?oc=5",
+      "published": "2026-11-27T10:30:56Z",
+      "source": "ChartMill",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Top Wall Street Forecasters Revamp Box Expectations Ahead Of Q3 Earnings - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNajZqZHFUQm5FYTJfSHZObEgtaEx0M2J3eTVIcGJnZFlvalJwNVBlZUFtME1DZDJxcUhXMXp3YWRIT2hOOWExTEllSFEwMzc2V0JGMzVFeUc4LUFwTWdEZDdMYUtuaFdwR3lvZllQaElNaGFVeUh0Mlp2SHhhd0ZfdnZIUDJBUjRqOVBPc3FSLXJ0cmFKY2xMcW55WU9VTFRCcGFmM1dNZy04MFZhVzFlbkJrUUlVazZ2UFI5ckZ4N3pXTmtDdlJQQWtacDUyNjlEZ3laUDQ1WUUzOEh4UFcydQ?oc=5",
+      "published": "2026-11-27T10:30:08Z",
+      "source": "Benzinga",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Warren Buffett Wrote in February 2009 That He Buys Stocks Like Socks, When They're Marked Down. The S&P 500 Gained 50% During the Next Year. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVi1lTG13SmdOTWZtdkNJV2NJVG4wWXlPMHpTV3FGaFdJRUlzSnV0bmlnUGxycFlvdUdrYkpmaDJOXzVfRmNjaUVseURKaDZ6c20zSFFXUHZCUnhIOUdoWVJqemtkYlk0YTJLZnJlNldNNGN3eVk4WGczdVl2MEs2N3d6VmJmMFVNRVhpQTZfYUtNbVNRRHBUd0w1SkNHLW9xMTQ0Wm9JeUdzWmVJY2NITTNZZW5hRG5hNC11ejB6by1YeGZWNk04cXhheVNuaGJqNUlMOVJHUEZOZEZYRTVRUjZWS1ZMeUZ4emxvTXlJR0VEd1RCNHNWeHNlVjZpeWc3dW5LMTYtb1hGSVBha3c?oc=5",
+      "published": "2026-11-27T10:30:02Z",
       "source": "The Motley Fool",
       "importance": "一般财经",
       "market": "US"
     },
     {
-      "title": "Bank of England says mortgage payments will soar for homeowners in 2027 - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzNIMmNjMVc5RWlsMjZ2M1daRlo3LUw2Tm9JZmdzbEFqekx5UDhLT1VyQVRoc2VOeXhjNHhvQkNtOUZJc29rOHB0VDRBMWRCdUUxWENvc1ZyeUxuTm0zU3JITGVEaG02ZDc3U1VCMmFHbDFuWG9HUDlGdmRjTTctSXcwVklRQ3JEbU5pMDZPQjQ3alJzQ2RMNW5lREpzUGlQYWJz?oc=5",
-      "published": "2026-11-26T18:10:00Z",
-      "source": "The Independent",
+      "title": "Octopus Future Generations VCT plc (OFG) Admits 659,002 New Ordinary Shares to London Stock Exchange - kalkine.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFBuamlrOFAtdDhnT21Wa2xJYWZFcExJSVNCTGF1d1lvRHVYSHpybzlhd0Z6SzVCdktySjBFQ3hkbzJkbTJmSkxGbVRVYkRVeUVHV1ZNQVRoRjM0RTJacERDUF9RRDV1aDVFNVdad3A3MnJwVTNUbFZOek9Nelh6dUtXc2padmZBeDd3dFY5VWxVODhrdHEtRDJGOUw4YXdqM0JGT2pzUGNBZHdKMFRUY1FkM1E3TnZwbXJnZkgyRWc4R1ljSXFpam04cWFiVjRNSmZYSw?oc=5",
+      "published": "2026-11-27T10:30:00Z",
+      "source": "kalkine.co.uk",
       "importance": "一般财经",
       "market": "UK"
     },
     {
-      "title": "Bank of Korea: One more rate hike expected – Societe Generale - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGEzNHduLXI0MGVaWmE3OER5UFNvZDh2bThLb0h3QllMSThYbGcxSmhJRjM1VVZka1pnTnFZRWFiRm1kSkJ1LXlyeGVLaXRHLXIzb1lEejZBajdwemlHU0tjTmdOUHM2Z2VtT0NTeGdmVmZmMmtSMERkQnp4ak5mcHlxZDVSY09HLTlic2ZOeUI0WXFOOFNuTkI5dVRHcG1mcWZN?oc=5",
-      "published": "2026-11-26T18:04:38Z",
-      "source": "FXStreet",
+      "title": "Broadcom Inc (NASDAQ:AVGO): A Quality Dividend Case for Income Investors - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTHJEWDRGRmIwUnVERDF3a3NLRVNwV2hmcDNHMTFha0t0T0pPU0c2a1dnRVJzNF9OdUhDMTVLdXBuTFpVejVRZFdJUkVXcldGSVU5dVppZmNiQU9pYV9nUTlUOGNjdWxRTmxLZ1JSbFNfUHJzYVA0dWw5WWhPM3pMc21jcHREbTFJdk1mTi1zTzNyUDZhbHFybWEyRzVoOTh6NTg5OC0yMzdGbTItLWllT2hqQ0FnMmxHbzBDVw?oc=5",
+      "published": "2026-11-27T10:20:51Z",
+      "source": "ChartMill",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Should State Street SPDR S&P 500 ETF Trust (SPY) Be on Your Investing Radar? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUjNQdkYtaU1XUTQxWkthdUNXN2t5ckRQak0xdFhMRnRmSG9xRlI4bGtvOGxSVjdKc0ozT2tVaWpmaUJuZnpfSng5eWlyMmo4YXNMNnBlRXBWMVVRa3BQc2JZZnR2WlFBWU1HQzhwZ05NbzFvSm8xSXZuZV9tZzhqSm00U3ROXzF1UTNpT0tZVW1aQQ?oc=5",
+      "published": "2026-11-27T10:20:02Z",
+      "source": "Yahoo Finance",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Dick’s Sporting Goods raises full-year earnings outlook - World Footwear",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHVFbFRCaWplTUF3ZVhYanp4akp1ZTk0aTZfSG5RR2hxbl9haFhxdW9NbDlxT0FfeGlZaDJCdkVSUHJIYnU3aW1pbFB4N1cyc25MMEZMUE9TbEdFeHpjOHNsbWZ2VDRidWY1ZWlKSGp2UHp5UFJqY1dNYmtCcWVoeFo4UGZVYlI5aHlqdk5rM2ZybUFJMUJmOUFTMnMtVmxE?oc=5",
+      "published": "2026-11-27T10:17:25Z",
+      "source": "World Footwear",
       "importance": "重点关注",
-      "market": "KR"
+      "market": "US"
     },
     {
-      "title": "Global stocks rise and tech shares rebound as US closes for Thanksgiving - MySA",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWXV3VEdDMTV0SUNWTzNxeXZQODU2UmdyTVVvZlpMYVRJbUdaUmRfclY4STRvS3BKak1EVV8zb19NVVplNlBkNG1xck1HVmpNOWpKVFlrOUZGU3ZxQjBlSTFmR1h2Sl8xTERtMGpCdlZEY3RoSTZneHZONXNvQVZFX1NoVkl1cFlzMmRNUzYyVXUteUdueWoyZDNzVGx2TEVlS3h4eGliZTloWmRqV3c?oc=5",
-      "published": "2026-11-26T18:01:58Z",
-      "source": "MySA",
-      "importance": "一般财经",
-      "market": "KR"
-    },
-    {
-      "title": "Bank of England warns opaque AI borrowing could spread financial stress - Superpower Daily",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQW4xZjN6RzI4S1BzeDNtTlJwVlN0cTNwQ25PNzQyazFCS0JMN0hPbEI4dlZjS3FkMFJWeXRuQ1RxbkpEaTJjV2V5RUhSaVJwMXBTNGl5ZTZ1OTh6dDNrSWE3SmsxcVRoZ1B1ZG1BakRsSjBncm1KSWN0UkdGREZldjVvUHVQMEhicFUyQnRpbHl3NmhaRDlnbmdJelY2UjNIQkQtQW5hV2c?oc=5",
-      "published": "2026-11-26T17:42:35Z",
-      "source": "Superpower Daily",
+      "title": "Morning Markets: FTSE 100, FTSE 250 Rise as Metals Surge Lifts Miners - AskTraders.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObG5hMC16SERGM0U2V05QVmozb2VNdnc4VjFNM1VLNk1pRnRrdmpRdk9fREpXQS0tYmY4SldyS1gwR1k5Zk9wNlpEMVBhYkdxRFdSRFlEakh6WFVmdG9yT1BXcjAxV3ZxcXd4NXZEMFcxdUdaUlJ2TnZyaEJjNjdqMVptMlhTZkhkMUg1QUtYWjVOQQ?oc=5",
+      "published": "2026-11-27T10:17:22Z",
+      "source": "AskTraders.com",
       "importance": "一般财经",
       "market": "UK"
     },
     {
-      "title": "Bank of England Warns Food Inflation Could Rebound to 5% by Next Summer as Rate-Hike Path Divides - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ra3lPWDhTUm5yM0dRTXlRdEdCTnltZ2NSU1cwa0djeGUtZkJjXzBBT3JOMEM4OU83dlhwNzZIOFhsRDYxSVpnaWRJQUZ2RjZBamE3WElWc2tNT1QwSDJWeXBzc2ROU1BEdldHRV9xMVZ2RTE5WkE?oc=5",
-      "published": "2026-11-26T17:35:00Z",
+      "title": "Tele Columbus Q3 2026 Earnings Call Is Live - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHdoUFJ1MEhNall5aHNpNlhTQUh4WDVMdkxIN3Fka0Z5UmpzWmNjSnUxYlBDWHZJM1RHWDU3QTZ0OUZsLU53X3NGaFdjdHpuS0owaklMZHQ5dEkxWjBoLWhpaEp5MGM1SkhNZV9INkJDV0tGWldpYUZDZGRoRnpNcUdkSUJUVjEybm53WlJaX05xTFR5eEtRMzhCMDMycXRSNDhWaHJkX1V4RFgyMFZsOWxB?oc=5",
+      "published": "2026-11-27T10:15:56Z",
+      "source": "TradingView",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Bank of Korea Hikes Rate to 3.25%: Chip Profits to Top One-Fifth of National Income, Spending Falls - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdE5KMHFwQ0xkbnllWEZiMzBQeXVOZGNvQm1zY18zd0xWZVlIUWU0X3ItM0Y4OVdRbFVSc1JEbUtFLXlCNjZrMEdiWDF6bDVLTlRoeW9ZTVQ0STJ0Um9pWGRNY2p4d2MxTnRtNGtnWUxrZEdmRC1PWjJoSkZBV01BZ3d0Z2o1RE44SkoyemJpQmpRdTJRRGdLaVpnMld1MmFtMVVzaExFcHRsMTlCUjk0MHlCSkROdVNIb29mVWNUT3Q5cWFtaXpKTFYzMHFqTDNKSVJuTA?oc=5",
+      "published": "2026-11-27T10:13:18Z",
+      "source": "Tech Times",
+      "importance": "一般财经",
+      "market": "KR"
+    },
+    {
+      "title": "KOSPI Index Jumps 4.4% as Samsung and SK Hynix Gain Nearly 5% - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaThYZXM0ZnBteVZ2UURKT3RtQUJqNlVaQlRqbWNrdU80M3NjVG82SEVHVWoxNXNyejFOTzdCajNjZTFiYno2eHAtSTRpM3pxY1NUdno5SEJzeUtLN3VRMTY5bHNFWGpld2czaFVDRGdUSWtkY3pmMkRTTHhZcWJJSTNBVFVKSWUtOHNvQnRmS3RwbldrVFpFdEVRUFQwckR50gGmAUFVX3lxTE1pZzdGUkdydDBSMmJCYkg0bjlkSTVnT05OTmNpbURGN2RKMmhTTW91VXFKTmtNZmN3RTBRMTFqMVdvOUJva1NQR1k1d3BpX01iVUdtOHNTSXpZTVhSV1ZSV1ZNQ1ZvUkdkdTBZbEpxZERLd0xpSVVUM0NOZ0ZyVzhhWmNBMVo0VTJkbU5jVnpwNEVLcUxXazJKV0M2NEJFNnlISHJNenc?oc=5",
+      "published": "2026-11-27T10:12:53Z",
+      "source": "Coinpedia",
+      "importance": "一般财经",
+      "market": "KR"
+    },
+    {
+      "title": "Is Home Depot Stock Outperforming the S&P 500? - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNODFCa1VEcmZnLWMzZjBHTHZYaWRNeWwxaHdqNF9CWmRkcWQzREd4MHNzbHpvbUxxb1BneUkxSFllN3JpeWtnYnJTQ3pGY1FJRmJZclhnWkd5d21Cd0V4aGZXWmZuVGhNVEprTHZSRnZkcE9xSm1mYjRnSDk5R0JTdWtrVFQ3RGpVZ0NYcHB1cU9ZX2c?oc=5",
+      "published": "2026-11-27T10:11:26Z",
+      "source": "Barchart.com",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Palomar Holdings (NASDAQ:PLMR) Clears Minervini Trend and Growth Screen, But Setup Score Flags Timing Risk - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdjNKdWhEVUpnLUxqUE9mcnlSVGpnOUlkNmw2cjg1cU1idFdiNjlZRkFhQWpEU1ZVYTdDRFFFNmxZaE52aV9ld3BKQXBjQjJFQ05VRWs5Z1dNN1VpUG9KU2hTSDFRNEN5X2JzN29MTFYxTjktR1l2Z3dlVGpHQUUtV2p0SVBlOXpuY3NsbGNsMFEwYjY4RG41dzRtUzh0UWFlY1JrLUFXdWxSR0w4N3VHamI4QkQ2WVZTSVQ0ZmdwbTZ5V0dDNm5TcFUwdDFwOXFFMDRZNHAya2l4ZTZORnpnOUdsMHhOaG5KYVE?oc=5",
+      "published": "2026-11-27T10:11:20Z",
+      "source": "ChartMill",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "US Stock Futures Rally as AI Shares Recover, Chip Export Restrictions Disrupt Financing and Oil Supply Risks Persist: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelJBLXJMUUxjb3hFbThZOGxtNEJHU3pnRzNSVTBqUXhmNjd4MUJleWZmQS1aOU1oSVlqWWo0MlFnMHhrN3hWd2hUdDZFMWxlNldkM2NyNHk5dVVmTDBKLTZOdXRWa1Fmc0VxT1JKaTkxQlRSaE1RYjhuRThKbEVlUlNkbTVJdlBOdV8wZmt4ampKWFpG?oc=5",
+      "published": "2026-11-27T10:08:39Z",
+      "source": "Yahoo Finance",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Wall Street Futures Climb as Technology Stocks Rebound While AI Export Controls and Middle East Tensions Remain in Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUzV1YmtZLVNVengxc08wWmh1TG03WWxfMGtqMXMwX1FPWmplTDFjWVFxTlhTb1NjZWliVG1SRHQ1REp3dDBPdU1HSXBZY0EtREQ5TW9kSjlmUnJXQ09yc18tcnR4ME9wSVh3TjFodEVHT3VKWnF4bDZpMDZhWGlKRnFSV2RUSzhic0loTGVB?oc=5",
+      "published": "2026-11-27T10:08:27Z",
+      "source": "Yahoo Finance UK",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Even when the Fed gets it right, it gets it wrong | Opinion - Knoxville News Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
+      "published": "2026-11-27T10:06:00Z",
+      "source": "Knoxville News Sentinel",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Citi: S&P 500 Rose After 13 of 14 VIX Spikes to 40 as Market Fear Surges in November 2026 - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IaDMyR1A5QmR2d0x2VXMxeUNNQTFJZkttUk5yeDE0bXdIYmtmUHNDQ1p2VHkzOGE4WklDZFZObFNtY1ZndUxiMnM3YVhrTkhPMy1Ed3FEdFJ0NTZSUGNVWUd5TjYwM1dDNUtMcEpSYjFFMUdJQVE?oc=5",
+      "published": "2026-11-27T10:06:00Z",
+      "source": "KuCoin",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Cathay Financial Holding: Record FVOCI-inclusive earnings and broad subsidiary growth underpin a strong 2026 outlook - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPckpNNUFFR1F0cUZWRkdpRjlwZll6ZlZSRkV4dlgzRE0wdS1vZ2RwaE1tOF9Nd2E5TkVyTk5JZVlTZDRzSU54MEpuSzJIdmhySU5pT0hrcGpsc2t4SlNZT0VnUWRzU1VfZU9KSXUtd1F2YU5FbkI1RW85VFpWbTcwYWNVa09UUnZXOVdNd0NFaUxraEVZVjRHTEtEQmRKeENGQng4cElFTThvRTdNNUd6X0xDU3NFS0VzTDRmNk9IUlpEV3luOXV5eTdQTjhlSENpdVNORktTeTVZM0hCV09SdVVoeFp1VkZjQU9lREJVR3hST0E4OEpGWEF0NXBkdlEtdC1aX3VTMUZmcDMtMjVfQUxocUdEVXFXVEh2aHNqMUZRYXBEdnVKSVVB?oc=5",
+      "published": "2026-11-27T10:05:34Z",
+      "source": "TradingView",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
+      "published": "2026-11-27T10:05:00Z",
       "source": "BigGo Finance",
       "importance": "重点关注",
-      "market": "UK"
-    },
-    {
-      "title": "FTSE 100 slips amid fresh US tech turbulence - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa1A4MG95dEY3Z0xzekI5YXhDTUNlSXQ2V3VZU3YtWjZUZmFOT3MtVHktRWNIVTVKVG93dm0xc0pSYjJYRmxFVllqd0hHeFZQSkdmcnBVYm9ZNGVZR2JYS1F4Q3hjNWxjUlgzd2JYd2tkSHZQeXIzMkppekJ0NW8wMW4xTUF1cVlxWEtGcDlHU0phb2pNcjk3RnpDUmxwWjZueFNkWVhvekpFMFZuRnptSA?oc=5",
-      "published": "2026-11-26T17:33:30Z",
-      "source": "London Evening Standard",
-      "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "FTSE 100 Closes Up Nearly 2% as European Markets Rally Together - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0NkWURjMnNmTzJGUGR0MWlkOEV4UXlCN1g2SGZIWGRSTkpkQ1NFQ0M2SFQwZmRvS3VFOFhPZXZpWExiRk5taFJjSnVBb0hhYkg1Q3dzVmFsNk54S3NNaHZtMHdGQnZOcGxHVldVdTBCNE9sMXNDTzZfM2J4UjVfdDgzV2k5cGdJc0VvU29ybkJZYW5wUi1MaW11RUxQLUd6QlV0VU9pZXVRQ1VUMkViNkFuV2Vua1ZoNlFmaS01Tm1Qa2lUN1ZHNmhIdw?oc=5",
-      "published": "2026-11-26T17:25:44Z",
-      "source": "24/7 Wall St.",
-      "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "Bank of England to cut capital requirements for UK-focused lenders - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN3M0UVdBXzQ5SzNjUjE2dHF6YV9xTExFRjktdlBlZ3FyR0dfaDNQb0ZibXoya3FsTVlGZW92eWQtQm1fREp6WnB0dXctTzdXeXh1RDBpbjhub1ZrdXhSdnVLUHF2SmFremZUOFBlVEd4RnpfRkIxTG1OZlBBSVBCYTBreGlCTDVXYTRTZXlBWVJ6S19XMVYyUW50Yl95MVNfaVBZTktPa0dVejEyRW5kc1kxa0F5cDducDYzYXJlMldfMjlFUE50b1Z2d3dvejMxTmMwRS16NkcwQzl2YnJ6eVM4RUd0RWdZSTI5NmZ3NUlFRklvR3UyNEl3?oc=5",
-      "published": "2026-11-26T17:12:35Z",
-      "source": "The Lufkin Daily News",
-      "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "Did Earnings Beat Just Shift Cadence Design Systems' (CDNS) Investment Narrative? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVpQbHZUY2s3MVRhSEpCY2Z6dzJtdFB3VU1wT29GZ0k4alMwZ3J6Tm90LXhKcmg1T1Y2TzZMOVhnREZJS2ZLNnlLdUFzVHN3eVdERTNVejBUOS1vbEtudVBXYzRSSlhPd1Z0emUwVlpBVThJallYVVNwRDZLQ04xNjRETzRoQ0stZ2x3WklIV01KUVVaZUprNA?oc=5",
-      "published": "2026-11-26T17:11:05Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
       "market": "US"
     },
     {
-      "title": "Dollar Tree Just Crushed Earnings Expectations. 3 Reasons DLTR Stock Could Keep Climbing in 2027 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX00weVJMeFZSQjdvWWhtMFNfZVlsNTZTWlh5OUhaV09VeW91UFpYbGRvYUNOX2NxbjlUdWJBRldYM3NJN3NJWjdUYUQza1lvY0REZThmcU9MdEZqNU5TSHk0NzFqNVo0TlNNRE9IdnpheTFGQlJ3NkQ5bDVUc0lWSENWcU9GUUZUZHQwRDI1REYtSmZnVUE0U3hzenEzYmM?oc=5",
-      "published": "2026-11-26T17:09:11Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Burry Turns Net Long After Selling Nasdaq 100 Puts - Briefs Finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmFBeXgxc0YwT0ZibWhXd3h5Rndvcm9kcHdwTDlNZnl1cWd5MmRMWHJZODN6RWt0QnZHRG1neXlnSDZidXIwbGxLM1E0SEZfQXR2TjE4WEZvX1N1ZHNQVUpWX3BFbGd6VUk2Z2VNSmJUYnVIbXc5dXR4em1RMHJfQ05JTFRkaGQ2STI1NWdfOA?oc=5",
-      "published": "2026-11-26T17:03:53Z",
-      "source": "Briefs Finance",
+      "title": "The S&P 500 Could Break Its Streak of Double-Digit Gains in 2026. History Says Here's What Happens Next - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1obmZKRURRVjRPRVkyanN2ck00SUZFQTNzZVVpUlB3U3E1UHFiRnVLVUgxT2lZTFVMT18tQ2dVX01uXzlyUHI2S0d5SkszUlhNREdqT0F4VVB5eEs2MXNLOU5hWFI1Sy1zMHlPQXNIcUlwNWY2SVR3?oc=5",
+      "published": "2026-11-27T10:04:02Z",
+      "source": "AOL.com",
       "importance": "一般财经",
       "market": "US"
     },
     {
-      "title": "Global stocks rise and tech shares rebound as US closes for Thanksgiving - WHEC.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2ZkSWhfcFJEUDgxMlVVTkkzb1FHdFNaSklTR2RSNjF2VTdUZElORm1lUnNvallZMnZKX3RCeUZXSnVIRE93NVV3TU16U09OQWJWc1Bzb3pkdi10Q3BJZU1oZVJINVZoWndvR2FsSjBqRjNVVURKc2RpdGJVVVFmZzZELU5LLTNaV21BZXR3SHlBQ1RZZ3pZb3MtZ3hGSlNsT1g3ZFJ6TmV1UQ?oc=5",
-      "published": "2026-11-26T17:02:17Z",
-      "source": "WHEC.com",
+      "title": "Shanghai Index, CSI300 Jump 4% To Hit Two-Year High: Three Key Triggers That Drove Chinese Markets - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdHNpTUpqVzdmMUJJdGRWNGFvYlJPdE9tNzUtSU1wdFFhUWZKajljbEZYRHl4c3dYNlNKMFFQaFdnWHBRMWRJdHJtZkZIVFZJODc2SkQwYWN2eTR0amFhTEliVElqYmZJMmRqMnJuZDZzRGM3NkU4VGNOaDY5TlRPS09aa3c0c1g2bjZMTEU2RXltQVhpeENTbTJJZXk1a2RUUEtxbEFYVF81d3M2SGc0VTRMUHNob0ZQLTgwbTV2cGNEbFQ3VlBWdE1ac05GZG9yMVRKalNB0gHeAUFVX3lxTE4waE9rM3k5YzNyd0ZlSWEyR3F5VWN2WDdyYXBTa1JGV2V2bWFXOUtiYU8zWjZDNURTRE9NRUx3QU0wWEZlV19Oc19aVUF6bHZubi1oUHM2ZldXRWgtR3E2YWtqb0o3Z2dwb2RmNUtnU19JM0xYbHlnbkFBMEowSklZTGFlblR3RzhJY29Mc3RQQ2luYlpsZ0toaURocG1TVnU3Z3ltSDlrQ0p0WFhURVpGd0lZYzVfeUVhUnBPbGhJZDQycDhBNVFWbTRBbEtWZm4zMVB6OGtVMVNac0ZoZw?oc=5",
+      "published": "2026-11-27T10:03:04Z",
+      "source": "NDTV Profit",
       "importance": "一般财经",
       "market": "CN"
     },
     {
-      "title": "Bank of England Cites $6.4 Billion Binance Hack as a Warning on Weak Controls - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IUWk2dFYxVFYyclNPWHJnWVVDT2VIeWVWOXRFQmx1RUU0Qm5XekdWZ3FfekpzUkE0Z001SDRhYlB2SHhOX1RqZU5Vb1pQWUlIb0UwZDRQR0pKeTY2SERNVHJmYWpXUVd6bE14S2luR3ZEX1U0eUE?oc=5",
-      "published": "2026-11-26T16:55:00Z",
+      "title": "Micron: The Selloff Creates A Compelling Value Opportunity(NASDAQ:MU) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUltdTEtcG0ydENZTDJnN0dWb3k2bndGR1FhLUU2d0F3THA2RWJzU3ZVUHJZZ3lBbmEtMDZ6ZW5JT0FLSlpMUmVJaUIxSkR4S2FBY3NVcmZIc1ZWVjl2bUJJLUhzUWxJV2g1dU5ORnFYM2ZXTjI2Y3lva09wSFo2U2Z6c0dES3lCY05IZ2dtWkhQOWlrdi10Rk5kd28wSVli?oc=5",
+      "published": "2026-11-27T09:59:59Z",
+      "source": "Seeking Alpha",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Sphera Franchise Group Q3 2026 Earnings Call Is Live - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3U4bjlkS0ZlMXRCc3ItenQwbnU1LXdQeVkwcTdES0lPRmhGUHhySnRiRE5NeHM3Ni1RWXk1QUFoam5LaGhHMGNCem5tLVJnX1dfV0xCN0FDZlY4SmxFRUZHXzN2aWRDV2NOX2pJdEg2dlNJRUhnMTFkY0ZudXNSckx2MmxWWm5hQk1xc2JSMVZiZjUyME5CdEdJc1NYY2JuaVdPMV9tQi1nX3hseFd0WW5MUEphNHpTbkR5OGZB?oc=5",
+      "published": "2026-11-27T09:57:04Z",
+      "source": "TradingView",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "HSBC Private Bank Bullish on Hong Kong Stocks, Sets Hang Seng Index Target of 30,000 by End-2027, Sees 15% Corporate Profit Growth - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YeThfVFFuT1dlcFFLRk1BUlIxc1NrT0llUnJWY2wxN09IcGlzTVFfVUdBR0hkZE9mTk5HUjd3WGtRcUFBTGRIajdPQk5KVTg2WUp2QzZ4LTdZakt4SGlDWnJWWVVlMjA5aVJtcUdyVUFtNTFNY3c?oc=5",
+      "published": "2026-11-27T09:55:00Z",
       "source": "BigGo Finance",
       "importance": "一般财经",
-      "market": "UK"
+      "market": "HK"
     },
     {
-      "title": "Bank of England warns over rising mortgage costs - Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0E0QjhZWUZhb09lWUFTeHh6Qjh2LXlJOVhUODBxTTJsa2g0V3NEaV8zdWR2VHE5M1pERGJUc2VnUHUyTjhQVEE3dThhUzNuekdLQUlhU1czUE1Ic2JDbFh3SHpPandrMldtRElkZ3p3bVJZNVZEZ1ZFLWFNUi1oYi1wWQ?oc=5",
-      "published": "2026-11-26T16:16:46Z",
-      "source": "Macau Business",
+      "title": "Deutsche Asset Mgmt: US Stocks Highly Reliant on AI; Short-term Jitters Expected to Persist - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcFlZQ0hfX0d0SkZJcDFLRVZvUzdnclRKTl9ySnE0ZFg4eGtoamxTZFQ4R0pISjNnR3BCcGY4T3BxeDhXcGkwNGl2QUNHZUR0YkRrb1Z0MmxxR3psVmxzZVY0eF9fM3drRTVDZXBUSUptSlRVVzROLUNkV1FvTUUzRUxWT2FNVjI1dmxuUS1MM1BDY1ItQnd2NVpON2hBbDFHdm9sSmhHVGQ4dzN6ZmJadk9zUlg5dHItZlV1a3NLZ1Vxa18xVkc3YjlJYnRSQ0VNVjNpRG55VzdNdkZ3UklF?oc=5",
+      "published": "2026-11-27T09:54:22Z",
+      "source": "TradingView",
       "importance": "一般财经",
-      "market": "UK"
+      "market": "US"
     },
     {
-      "title": "Nasdaq (NDAQ) Stock Could Be 18% Overvalued Following Record Recurring Revenue - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQVZGSERmbWI5bzJuNE5ETUVpNjZEemxFYTAwLUIwOVZsVFpVVTVFM056cVVKa0plM3NOS3lfQ0pKbVA2VXdsV29adjZDRGxWRHZGSGozVnZrUllUTUpSSkMyLVdkajQ5bllZMG5lQ2lJTG01bHdIb0RSZkktb1ZCNzd4OFp4eXVaaVZoTlE3SnpWUTZmNlE?oc=5",
-      "published": "2026-11-26T16:13:41Z",
+      "title": "Kospi Rout Wipes $151 Billion From Korea Pension Fund’s Assets - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVY3c05sSVU1NERvNHNDWEx6VFg0aTRQbG9CUjd3UzlhaTVldXMwam5EZmlOWmVxMmlzT2RZR21ETllxNDQ4T1RRSWNqeGg1SjZuR2VTRXI4ZHhhS0tVR2tqbGlqNWNDaFN0eDRfUEpaeXFTNTJvM1FGSjRxVng0elJLSWs1M2FTdjZKV2QwSHpIUFV0QWtfZTlFcjVBMm10WUhEemZSSDBwOWpwYWVER25R?oc=5",
+      "published": "2026-11-27T09:53:15Z",
+      "source": "Bloomberg.com",
+      "importance": "一般财经",
+      "market": "KR"
+    },
+    {
+      "title": "Nasdaq futures surge as investors pile back into battered AI stocks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
+      "published": "2026-11-27T09:47:18Z",
       "source": "Yahoo Finance",
       "importance": "一般财经",
       "market": "US"
     },
     {
-      "title": "BlackBerry (TSX:BB) Rebounds Before Earnings, Is The Stock Fully Priced? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHQ5enVac0RCVGtJbmRwOFVTcktURC1SbEJMaWlYUTVNX24xUUNYeGZoWXdaUjJzWnZMWHBwd1MyTTVfdnNDOTRwRmVfYVJjV2JVSjBCT2JwZ1pWeDlmM3VpVnFNa2xCRExhNi1US1ZYY0d5Z0N2QWlOZUZqbHVSSnRfek1hUjdlWDlhN1dNT0FmNFFZcWphQ3c2eFlNUlNNaXc?oc=5",
-      "published": "2026-11-26T16:10:12Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "S&P 500 Sell-Off: Here's Why I'm Not Panicking -- and What I'm Doing Instead - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcC03S09hdjUxMjl0MTVTbkdKR252bFRMWXVmNlU3WUFiTC01S0kxY2Zjc2lva0RBVXQ0cGFnd0tRZjVJVkdwUVQwLWFORHhCeHBOOENyRExLR1dXV3N0ZDNhOTFNVEpOMGRBTVB6d1JKdTV2V3ZyNUNmWXVjM3poaVA0TjJaTlJWRWw4WDdB?oc=5",
-      "published": "2026-11-26T16:05:02Z",
-      "source": "Yahoo Finance",
-      "importance": "一般财经",
-      "market": "US"
-    },
-    {
-      "title": "Bank Of England Holds Financial Stability Report Press Conference - The Daily News | Texas' Oldest Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUjQ3SHRyLXhtSWhpb3VFRnZaSnlDSEhOUU8tY3R2dFh6T0xrNkRTYWJMVEtiS0kwN24xS0pIQjVQSUFOWEJZU19EUGpzOWIyYjIwUzdxYy12emU1a01lc3o4eHBVTENlLXNjcVM0SGIwWnU5cERNWW1nTmNfVGVYdUtMekFueEwxSDdZNUVVWEduWWhCNUllSFhOVlR4ZzRNQ1pJeUdoNjVOT3oyM1IxeTRPOVRyNzI3WV80MFJlYnB0akR5X21ScTJJQlN5enhRbFpJT1NYUnI3aGJSNUlqc1N2VExPaVdrTlAycXMybjcwQQ?oc=5",
-      "published": "2026-11-26T16:01:26Z",
-      "source": "The Daily News | Texas' Oldest Newspaper",
-      "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "Mortgage payments to rise for millions, Bank of England warns - Mortgage Professional America",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSkEtLTNkdVVJOGNzS0NQa0YtZkVROXl6cHlNb3F3clFDQWt6bmVYZXNsUUd6aFFvaEhtdjhXbGFrWFkxREpkek5VWWdySnByZ3NMNVNYOEppQjBpb3hTRnRlS3Rwa3pWVGU4a1lIWG5DYjd5STdHT2NuQ1FZQzZDaUVVT2ZvMi11TEwzdnNXdkNOWGRKZV9hUE1OSi10ZVh4UXF5aDdCYnNObS01U2RQOWJCTXMzNFFmZFdVWg?oc=5",
-      "published": "2026-11-26T15:55:45Z",
-      "source": "Mortgage Professional America",
-      "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "Bank of England sees growing financial risks as AI borrowing surges - Merced Sun-Star",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUlKWTdJeUFtTUg1d2p3bDRZRGFnMzhLMFZxdjRqQ2JfaHgweGpiM0RaOHFxMHh1WlRCRlVrTnNqZE9sX0hxZDN1aGVVemtlM005UmJFbzJkOGZCWUlhdU1USG0wMk5XMTctOGNBemlRNy1wbUJiTjBZVG05QWdBdHRnR3g?oc=5",
-      "published": "2026-11-26T15:53:05Z",
-      "source": "Merced Sun-Star",
-      "importance": "一般财经",
-      "market": "UK"
-    },
-    {
-      "title": "Bank of England sees growing financial risks as AI borrowing surges - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQelV2eFhsWW9TWFBQenk5R2FSVkhUUFI5YV9kQlJEcV9XdFFKc3g3WW13M2NkekRNMTNJTXVHdW52dmJZWDVrMl9GZ1hiNHB5djFXNkJxd2NzY3FuQnJMZE5TdkpuZGVLMmVRZDdHQ0wyNE5Icm9MdGNodGd5bzNqN0xaMW5uVTRVLXhvZTZtNWtSSnhtcEkwMFJQTWJubktSaTdHckxNTlRUN2swUUVXOHQ1b3dhaFh4Y2lZYmNFenFFMFhoZ1o5blpEQkxMSFhjcUlUNzU2dnAwZHBzU2FoWHJVbGxGUXJsOEtnV1BpS1FISTdKQldyLTRlUQ?oc=5",
-      "published": "2026-11-26T15:39:06Z",
+      "title": "Nasdaq futures surge as investors pile back into battered AI stocks - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWWVhUHdkSXZYLUFWaG1QQkhCa0xTSllmdDJKZ2tHVnNINHRZd2JGVm1BTUdwTDVhd1d5MXRLSUJlZjV3Rm51SkJDa3lfdTlBcHFRblhOVy0xVmlSOFBDM01TUDJOc2w2bTMwSlZrMWRkM2lFZTVyU1BSVk51eHBudjRZODFvQ3lZX0NMcEV6cGdPX0JuSkk2ZmZxRi1XRkVSV2d4eEpsajZ6RnFyaUczVTk0WGtvcmsxQXdYTkpPNkRudkp6ZzVLaTJCeDdjTnhjczByV1FsNmFMVTQ3Uk1US2RjSVVCcjJTZ1R5cjIyNktTUWNXQXVtbGpBUQ?oc=5",
+      "published": "2026-11-27T09:47:18Z",
       "source": "The Lufkin Daily News",
       "importance": "一般财经",
-      "market": "UK"
+      "market": "US"
     },
     {
-      "title": "FTSE 100 Safe Haven? How It Holds Up When Tech Sells Off - IG",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3pEVVd0SUxGU0FQU3R1enA4RjRzb0ZRanI0VTBvSWwybFpNZ3BTWjlNZmdWTGg5Z3dqQnhaLVBOVTBNTlRuQWlYaGUtOUZUZWNqVzctUnJ4dTFfZDlRN3VYX1FQYnFheW9mMWROeTYtMlRWc0xBVUxodWtROUtIOWp6VzhCcHJjdE9GYzNaYkNhdE1qaDZIbmVFb3EtMlk3X3U2NnFIY293MTc5R2JWR3BxRHU?oc=5",
-      "published": "2026-11-26T15:36:02Z",
-      "source": "IG",
+      "title": "FTSE 100 Advances as Mining Shares Rally on Strong Recovery in Gold, Silver and Copper Prices - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdkVNdDEzZVZ6RU9yekR0SUVUUjVjUlN6azlVN2JrMjJoWDNXeVdqLTlDaWlqOWdVWTRHb05reXowQTBRdk80dGhPS2ZVd2hmeUlvTlhhTjUyQUxvNnpmQkphYlp0UmlUUlhoN2tXRkVFRFNkR2gzUUNqMDloSE9OdGc2QXJtVEE?oc=5",
+      "published": "2026-11-27T09:46:56Z",
+      "source": "Yahoo Finance UK",
       "importance": "一般财经",
       "market": "UK"
     },
     {
-      "title": "Bank of England to cut capital requirements for UK-focused lenders - Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWTF4MEliaHZydWlidUpVQUJlOG5fMDNtQk4zWExoa0lGSDR3WUt5MXRZby1JMlZMYTFnVEFqa2RoU3p1NDV1XzZDRDh5MmpCNlNfU18zMlhVVl9YeTdjLVRzS1VNaEZyb19GWFBTZWRSSTdOZ21iekVocjJhWXRkdnlmLU1VU1dRUkN5VXVMVTVDT1dITVBxQXQ3XzlKZw?oc=5",
-      "published": "2026-11-26T15:33:53Z",
-      "source": "Global Banking & Finance Review",
+      "title": "Bank of England flags opaque AI financing as systemic threat - FinTech Global",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX082OUxWb0pCdXdUejlWbW1JYUs2RHNjZ1lpNU5oWHlLUHVZSUVfal9GanZKLTJGRmZDaExNeXRDZUIyZElha0VsRl9PTjVTNXFDNThHTnRzb0x1VjFPX1FOSC1Ma2pvNU1pT1liT1BOY2VwMkdIUTdGaTZiQWdtakJGbzJmcDVYYWRrdE9LR3ZyQWdwdVJGOG9mWQ?oc=5",
+      "published": "2026-11-27T09:46:43Z",
+      "source": "FinTech Global",
       "importance": "一般财经",
       "market": "UK"
     },
     {
-      "title": "FTSE 100 outlook: Stable above key moving averages with resistance ahead - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdThWTnBkcnZrWnZjS3g1NFcxYkxjSFBmeldYRVlqXzhXNGJxSnFKNlFHdkxoV1FHNnVqWnpaeGpIVUpRNF9KODNzTTUyX1R1LWNudlF1SzVKQi1xMWEtZWMxc0xDeGpHYnVISENWV3d5OGRYZjVxN3BnQXV6djlvRkU1S0xoQQ?oc=5",
-      "published": "2026-11-26T15:30:35Z",
-      "source": "Traders Union",
+      "title": "The S&P 500 Could Break Its Streak of Double-Digit Gains in 2026. History Says Here's What Happens Next - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbGVNMjlwdXAxdnpWZDJIektLVjNzaW1GeHdiV3ROQUhrZE1Ub3dwRm40THFDa3pXd2RuaGV5TDgzdDZ4S1U4YWszSXBjTXJ4M0NSQldtR2oxVlBPWnhKakpPYmhPSktQaExqZUlkckRBeTRZR1FGY1VhRXNvQm5jVFI5cjhuY1o5R18xV3NjRnlfMld6ejV2N3lBUHF1VEhKR0hRUU5hVWJXMm5SMU1rZDhZenhOYkM1MmVOaU5DVVlONHlUcVZkZVliLUlDS3ZmaHlBQ3dpWFN3bE94VHZSbGF0WQ?oc=5",
+      "published": "2026-11-27T09:44:02Z",
+      "source": "The Motley Fool",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Bank of England warns banks may pass tax rises to customers - FStech",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb21kZVg4c3ZpY3FaWXVwV2ZFZjh0b0RyUWlVenpzQ205NHhwVVVZb1ppYmEzeEFaWnZzRjkweU45V1JEd2I5N2Y3R2Ewd2VJV1RxV0tTX3F0a2tkbXJDTzQxVi1jcUZTX28zaExrNUp6YmZUYnR6VFlxVFBoZERRc2xOX2RGeFQ3OWhGRDllZWM3RFFrSDNr?oc=5",
+      "published": "2026-11-27T09:43:19Z",
+      "source": "FStech",
       "importance": "一般财经",
       "market": "UK"
     },
     {
-      "title": "Why Is Watsco (WSO) Up 6.7% Since Last Earnings Report? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDBhSlJ5NGNPVTF3cEI5LTdmTF95azA1MV9lWFFrb21qa2dya0wzcExiNVVyM0Q2ZlNyaWZqaldtWlUyNzBzMzJMQmVncHlUTTVJbGpfdmhIbGk3VG4zTDU1T1RHMlNKM1BXajZaVmNvWnNiWmpySGNKdDRmSmlQWUJVZEs1anllbVRJ?oc=5",
-      "published": "2026-11-26T15:30:20Z",
+      "title": "NXP Semiconductors (NASDAQ:NXPI): Strong Growth and a High-Quality Technical Setup - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnN1TXN4QV9EMjdQdVhoWVJ3aXJFVVV4V3MzblAzQkZrc2JBSDYteDRqNDgxdXBmU0lwcWJidFZ3SXpnaXNSNWMtWDhrczVhRUk0ZWtwTHpfVU9jb2o2aURyd0NmZjBiR0RMRVp3YWZ3SGFkeGtzN1kwNldLYWU1TzN3QmhQc0QzMHZDVkFLckZQMS1UOUFZUVNma1otWTVjM1ZhbHRLTlVPaEwzdmF4T0VwbmZxVEthYmhjTllPdWdsNzVvQnBDNG5B?oc=5",
+      "published": "2026-11-27T09:41:02Z",
+      "source": "ChartMill",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Is AbbVie Stock Outperforming the S&P 500? - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUHhSUnZ4TlNDRmJ2Q0ZNZEpsMVBnekRzRnBoQ21BU2EyUmJzaFZXZUdZekswTkxudmZZYXhSYWRWV0l2Sko2VDBhRHBkXzVCOUhlZm1NMFUtUDVLMVEwdG51cjVmUlBpOUVjZEFMWmxud09qR0laa2xoeHF5WXRENkNfWkhZRUFaUnZxalN3?oc=5",
+      "published": "2026-11-27T09:38:37Z",
+      "source": "Barchart.com",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Bank of England Governor warns lenders may pass bank tax hike to customers - Business Live",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLU5jajVDT1NZdEViUldlUThlT3lpclZVUVR3andsWEJya21JdFI1aDBPdUllTURRZDJUUTIzNjVYUmZuZXZ6dGxKdXp6M2FRc3ZqSFdBVC1MNFdsMzk5bTR1QWJ1TE90b01GdjNMaGUyY3RPVjZtYktyZGpSdlBhSDI1b1FNSnkwTWd2TW9YTHFMMzFOZENJNFdkV1laVHPSAaQBQVVfeXFMT25xczZ1WTZuUGVXTDVCOFVoVXB5X3J3WGhoVURCRnB1eGdUTmVabVhpZXU1QWVkdndCZWdiVFhrcnE2b0xmZ2lYeFlMOHZpc3hVS0hqWDVwR1R1aFpIazZ3MXV2cEtNM1RMSjloUzBsN0w2N0tfMzR0TDNxNDNVNHQ0YkJVTkJnNS1VYlN2ZXZWSUJoTEU5akZHeUdZRm9oV3BERzM?oc=5",
+      "published": "2026-11-27T09:34:00Z",
+      "source": "Business Live",
+      "importance": "一般财经",
+      "market": "UK"
+    },
+    {
+      "title": "Bank of Korea raises growth forecast for 2027 from 2.9% to 4.1% - Korea.net",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFRXI4amI3ZVQwbVJPSVRHVHdNZGFVd2ZGU0xuZGFBV05PYncyZGFBd3pYcXAtN1Zqb09qajhGSWNxYTExTnlaMXBxTHVlNTgzOXU3b0VDY2VWTDNHQ2J0SWxtWlJ5UFB4SEtpUVdyOA?oc=5",
+      "published": "2026-11-27T09:33:43Z",
+      "source": "Korea.net",
+      "importance": "一般财经",
+      "market": "KR"
+    },
+    {
+      "title": "US tech stocks set to jump at open as volatile trading takes hold - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdCU2RLbHJwc2xuSTdlZ0QxelFBTGZyQ2VQdXpGRW4wcV9iTWJoQmdFbXhocEhRTmF6b1FVMmtnTktYSGJnY0tJaWlYT3BVVDBlZ3lDYW9hblp0ck03eUJoWWRlRFJuWFhEV3lqM24tQnhEeDdSLWQ3Q2ZvcTRUZW84Vlk?oc=5",
+      "published": "2026-11-27T09:31:02Z",
+      "source": "Financial Times",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "ZEVRA THERAPEUTICS INC (NASDAQ:ZVRA) Delivers High Growth and Improving Fundamentals - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVVFrMWZtQnBPZlhfNU1MbXF3M3ltY3RQa0N3YjlwYzRvR0JIV0tvWTlHTVlPUENRTFJyMmRVcDN4bVRSYm84bkNpUHlWY3FFd2FvQzhsWVMzb2hUZEE5dkxrdW10Q2VhSUNzTUo5a1ZHeGtsU181V3hKWUM5TEtON3d3Z3dYSzgtc1RKeDZfdnRwSmllM25Qek85VFdCc2FKNnV1bk5zN0ROb2otRFpfREdfRDZERVZhemlMM3hWVEgxeG5BX1VkUl8tSEJ5UQ?oc=5",
+      "published": "2026-11-27T09:30:49Z",
+      "source": "ChartMill",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Chinese stocks post biggest gains in two years as Beijing steps up market support - Profit by Pakistan Today",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVjNONDYyRW9YMHhqMmxETllkS0tWWXRKLXBwRjRsQ2RrXzZZU0RLNUcxUGtWcFpBUFNXN0tXYjA0S0JRYXlrNXhHaW9kVEJ0ZjhrQlVmVHNVUzVkUVhDMkNXV0pPR0xVZUZuWnNWamU5T0VPRWtzazhuSkNkU0dscnRZUHJJZDljZmxXNE9hYWN2VkZKQk51bHkxejAtalpuS3pGd1J3VlZvWVpTNXRUOUhpcnVueHlrNV8xSXlfQ0UxdUNRcUxv?oc=5",
+      "published": "2026-11-27T09:24:15Z",
+      "source": "Profit by Pakistan Today",
+      "importance": "一般财经",
+      "market": "CN"
+    },
+    {
+      "title": "Hong Kong stocks close higher - 巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmpVcWhTcDV6Ujd2NkZMYTZITDd4cnd4WlpSSm5UOXRNenN4X3VvZk1ST0IwcmRxbUZLTGVJaEIxMUFZUlBCTnFvZG9YNmZFMkpZTlJoRUo3LWRpSzFWMzNvV0NqRXdtdmk5MDdxSkFDaDlFWUVpamQzOGMtSzdHOUlFcjBoQ01kbklMUg?oc=5",
+      "published": "2026-11-27T09:24:00Z",
+      "source": "巴士的報",
+      "importance": "一般财经",
+      "market": "HK"
+    },
+    {
+      "title": "Nasdaq Surges 750 Points Pre-Bell as Big-Tech Perking Up in Friday's Premarket - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTHhnYWdZQklrem1mT2FKdWlaZjVzLXlsVjcxdWt3LTN3c2FJRXZHQ1NCM0Y2blJvVmhiNXFJTnp6c2tkcllzVWd2ZWQ2V1dZRVYyZUZkRmlmVlA0eDdLTVpNREtVMHNFNTMyMkFQS1V2N0sweEpnOHdBZlBnT08wQkhyekNEcTZmOXBGZk5WTWlzejFNTk9VYTU5bHhBTGhKYnI5Z3pEeEVTa3hXRmNaMmdPNUF2ak9wSkNDMlRMR3llSjlEVDNOd0tVYw?oc=5",
+      "published": "2026-11-27T09:16:55Z",
+      "source": "marketscreener.com",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Bank of England Urges Firms to Move Faster on Quantum Security - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2lsb21fZzRTalJNQS1NZW9xc0N5dm02QzFRRXRRdU5hNDlkVXo2dFZGYlZoU1NvT0ZFZkpWQUhqZ0NPSVU2Y1pUaUhwWWRKVWQ1bnBBUTRiZUtpYU9abDRyU3p5Mkd5LV80SnUwaEkxSFVrRzBqN3NPeGI4WDJtaGcyd2cweEpTeGQtQjlST0hmeW1ScDROWk5Vb1hJQWhpYjQ2MUtvNA?oc=5",
+      "published": "2026-11-27T09:15:45Z",
+      "source": "The Quantum Insider",
+      "importance": "一般财经",
+      "market": "UK"
+    },
+    {
+      "title": "Meituan Posts Earnings Beat as Price War Cools - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnVBRVJVc1Nza053bTRzeU5ZUlVjUWIxMVdZa1Jobl9tOEoyeFlwWXg1aWpKVXgydkZUbkJ6SmNpLUdxWDdjNHJmQ3ZCNlp0X3JpN19pN2VkNGdwR2tFYU1TZnBLOXc5ZG1MampnNmFGd3BCMUl3SkQwcUl0U05uTTFpM3pwUTFRSklYMHlYRUtGT2FtX2xhTQ?oc=5",
+      "published": "2026-11-27T09:13:00Z",
+      "source": "WSJ",
+      "importance": "重点关注",
+      "market": "US"
+    },
+    {
+      "title": "Sterling Infrastructure (NASDAQ:STRL) Meets All Eight Growth Criteria - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcW1uQmVRMUtrWVM5N18xdzJLN2hJRTNLTFZRZlJBaXVPd2QxU1Zfcl9jUmFhSHVtMXRQOS10SjhZQldCMXdES0pVMW1QM2pubjkxUy1kZEhrd085Nlh4bS1SV1JVS0VzM3R4SkQzRUVYZmZEaVplNVItSEdidUpyTFVmaWNIamRaVHgzb0VCNkxqdmE0S19Rd2FvUl9KSHZiQ1FZZ0dFZDRjbmU1SnBfU29LM0FwamN3aXc?oc=5",
+      "published": "2026-11-27T09:10:54Z",
+      "source": "ChartMill",
+      "importance": "一般财经",
+      "market": "US"
+    },
+    {
+      "title": "Will Earnings Upgrades Change Texas Instruments Stock Narrative - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdndvanUxd3ZfMXZpU3cycUYtb0cwRDhLRlNfdVVQZkdLUVpsNHY0aE56alcxeHo3MlNmQzAyWmw4aU1QZElVc29icmpra05ibmhyUXlUZElSclNjMG9ZWjUyV2FIZC15VjFQUjFfSEU1RFIzTVk4blUwVVZ6bWw0d1UwN2w4aUZBdUxiRUlVeldmbFdZOVY5THRWSEtOM0ppQnJob0VxaFFhQVk?oc=5",
+      "published": "2026-11-27T09:10:20Z",
       "source": "Yahoo Finance",
       "importance": "重点关注",
       "market": "US"
     },
     {
-      "title": "Why Is Waste Management (WM) Up 9.8% Since Last Earnings Report? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDNyYmpDZ3dDYUZDTGZINFRGOWhKZmtqM1RfNmEwU2ZjMEQtTG9ISks2STBvUmxVVnhTVW45bmMtQk9TT3lrOXZBS01GREpfRjllclhkNktOYmtVczU0RWZ6VGYwdmsxeWVKcXVoSnNWdVFGUFgxNWJ0dmRIdk43aTJVeHZOdTNDbUJQU21aLTBuN3R4?oc=5",
-      "published": "2026-11-26T15:30:20Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Why Is Xylem (XYL) Up 9.3% Since Last Earnings Report? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnNXeUxHb3pkN0NRUlFVWmJSYUpxVHhjUktlVzVFS1htUm54MGd1TTBVQjIxcFlqOUhDcDMzTk9UUHdJcWpGT1RJakwxakpvQU5GX2lYRWhsUW5NNWtadHZKcjV0NHVqMW1SVElkN2dGMlpqb1RPZWpNQXZLUmJWSjd0ZHU2MDlHREE?oc=5",
-      "published": "2026-11-26T15:30:20Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Why Is Xylem (XYL) Up 9.3% Since Last Earnings Report? - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zUHZlMUlTYjVSWFpDQl91R3czWXQ0ZjZfLTlCTkJWd2kxbURxNjh4QTFvWWM3dm1kb01BUTRhTTJqNEpZT0NtTmlVZzJISHl4Vko1ODlyaXJuaklPTWgtemVwdkJ3NVl5dFpwU2lUMUVqU3ly?oc=5",
-      "published": "2026-11-26T15:30:20Z",
-      "source": "Yahoo Finance Singapore",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Visa (V) Up 5.9% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFY0VTdGbERtRDFtSHhqZlVmNXhmUlY2VDZ4UEJaOVU3RWJGU3VYbXV2bWpEdXFCUGdBUWtod05DQ0RvMmxwTzlPZmlQN1g4aUxiOXFHMlB0OTJ0M1U2QmV3SGVkZFpKR0JKXzAxaTJRQlNPU1ktZUpqV0dzeHd6UndlRmd4OW5o?oc=5",
-      "published": "2026-11-26T15:30:19Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Why Is UPS (UPS) Up 5.5% Since Last Earnings Report? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaDI3bkVFNFVURzkxcHY4U3VpcGdkOVRVa3JOclducHlwdlFDbjhlUkhsUFFRb3BwYlFpOENZUExxVmY3MUE2OU42UlFMa01EaE1xbDNDMDZTVHozLWxNYWlJRk8tM0pkcmNmRmZ3RXVubUNlb0lMMk9VWlBrdERHXzJtQzFoZWs?oc=5",
-      "published": "2026-11-26T15:30:19Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Why Is Ventas (VTR) Up 7.8% Since Last Earnings Report? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTlIycWVCWVN5RDJSMUs0R000cnVCdjZ6OGdqVE9MdzNCRHcyZzlvcWpVcVhkR3JVeXZsRDlLVm1yMlRtWG1GUFNseml3cE1WdE5kbXp5Y2hKNkRFNS16TVFJRGRxNTNYdW9uVzhTa1ZGeEt6eVIzMzRBM05zU1VNRmR0eVVmRFU?oc=5",
-      "published": "2026-11-26T15:30:19Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Why Is UMB (UMBF) Down 2.5% Since Last Earnings Report? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2Jzd1dRc2RHU1Fqb3VERWtVSTlaZ0FDdHVveEpoUlVlcHhjUzBGQmVnMEY1VFE2UWNzV3V2a1g4cXQ3bkxvSDBZVTBMX0ZsOVZGcWRXSXgxWEMyN3N5bUd1SFRBOG5HLWdUQWtCZXpDRTZua3FyMXN1SWVKeUFqdE1CbHczYmJNaG1UMg?oc=5",
-      "published": "2026-11-26T15:30:19Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Why Is Seagate (STX) Down 32.3% Since Last Earnings Report? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWJEMEV0Q1pKVjctb29CdFdwR0NOSHNfOVBzQmdIX3UzNDloRXBlUGVzMEMzVkdzcWJfMVBDbmdpZDZhLXdMclpaVGx6c1RKcGJ4cjFITWxOLVU3dmRhdUJybktvdk5IZTAwSHhqQ1ZXelN1ZXRwdHI3Yl92UFRBcXdTRVRHWWRaRTdnaU1ldXVaUQ?oc=5",
-      "published": "2026-11-26T15:30:18Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "TransUnion (TRU) Up 6% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVk91amJ4WndFeHVKcWFiYkFzNWdLVndHVEdRU1VGOUxLUUJSMnFkdTZFNmh4alpjUUswZUpTUTFCNko0d0dfekpVWWpDOF92UlROb0VlanNxOURucmhmNmtiNldvYjA0NmZscWUzdlZSWWFWbzNERE45bFQ0bW9ZQ1BQMXJFRmRuRmNleUJ6S1dZOTU2Z2dZ?oc=5",
-      "published": "2026-11-26T15:30:18Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Universal Health Services (UHS) Up 10.7% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGJ3aUFvSUxQLWx3VzFSX2hET2FVbUJ0S0o1UE9PcHpVcFlNMG45aFhQeUg2SnJzMDZBREhMYW5iYVduMzYtWnhoeUM2VFBaQzNpdk9TbGhvdnRVVkF0M24weUhYV3ltWjhKdEtQNk5hSVFVd0pNd3hoR3B0a252aE12SFJIc1VhM2wxbUxMWHNxSVBOc2FHcA?oc=5",
-      "published": "2026-11-26T15:30:18Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Why Is S&P Global (SPGI) Up 2.5% Since Last Earnings Report? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT0pSWnU3MTN4M2Jfc0J2RW56WlAySC1sWHhrcGVGSFlxYl9pUGxMU2pBbXgtclJZcmp6V3FYWXJqTFd6VkZUY2xxY2c3WHEyd3R0NWdkNFNUMHF0UUwxSDFnUlVMOHFtMHI4bnB0c203Vk9KLXBmZVdTR1JLWW1CdG1YU3o1MGd4LUpZYQ?oc=5",
-      "published": "2026-11-26T15:30:17Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Why Is RenaissanceRe (RNR) Up 3.8% Since Last Earnings Report? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbTY5bWpreVR2dDNtNU1tekdEXzhUVnpoR1oyRGVIVGtVc1JBVm9jTkxQcU5NaDhFS2FreHF5WTNHamdjTjVmQ3hGSGhvSkhUaEpvendNWW95eVlYVmIwZ1RERkdDdmZZVVRUYjRTeUtuS2l2eWJnYmNRN2EzQXpqcXZZbmdWTzlacmxBUUloMmQ1VVho?oc=5",
-      "published": "2026-11-26T15:30:17Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Why Is SoFi Technologies (SOFI) Down 23.8% Since Last Earnings Report? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnRtNjZ6Ny1lR0lRMm50blhGUllGb2l4UVRLR25oOEVmMUZpeFNCbTlFS21aak1NdmEwQXVVemt6U2tLeFV1M21qMGFvai0wMHZTMVZUa2oyY0JtTkNsb0EzczlocHZYdGdKSnRwc21MNGVFamplNTV0S2pXLS1rZlVtUmlab2hxN2plcVZlZGxhdG9OM1hRRE5LMFY?oc=5",
-      "published": "2026-11-26T15:30:17Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Why Is Sherwin-Williams (SHW) Up 12.5% Since Last Earnings Report? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1ZsQjlWVlVMeXR0SzRJUHFWVXdHWWkxSjlSSV9xSXdBbEZpLWdYUUlJOWRKWGVLWjVORTdBRGR1Mm9sZ3pZZE5URUZRcHZrZkNtMVpad3Z0WG5KYTZENldQd0tJeG5Mdm9LdzhQTndRSmJ6VEpxV1hMNkpzb05ZRDFnbEpkaDZQZFRyWnphZmJzZVFYNHZ3?oc=5",
-      "published": "2026-11-26T15:30:17Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Simply Good Foods (SMPL) Up 12.7% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWZkbmE5YjNWeHlZZTBNOVEzc2RrSnZkc3JzZTVPOVFDUTZCamQ2V3d4SmlGZ19MVDdnc2E0TGVpQmJldEV2OUhVMFhuaUlCREtCd1M0NGIzQjdObDNtemhDWTkzeDRjVk1LMDlCeXdvZFNVWjJDMXpMdEpQVF8zVnhRQVQ4VXEtRWZmNTV5LXRaLXlo?oc=5",
-      "published": "2026-11-26T15:30:17Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Paccar (PCAR) Up 5.4% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUFVMS1ZGSU9ZdzY3T2lNVmpPZWtSeWk4WHlVWGlHcDdrSUpYLWplME9HdXQ1b2ZnVkttbk9CNi1qYWJlb1MwNWR1UzB5aFh3OVo0M3o5YVpfZ09JM3FLZjdWZ1JBUlVraGZZcld2dTlIQzhFN1J6VHA2NHY4d2RaY0pjVzYzNlQ2QVE3SW9RWQ?oc=5",
-      "published": "2026-11-26T15:30:16Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Paypal (PYPL) Up 2.2% Since Last Earnings Report: Can It Continue? - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZdTVKSlF4bVVHVEI5b29waFhyRktDODVIQ2tNbmVZbnVwUVc2WFFkOTBFc3NCdVZnc1ZIWFptX3psUGFzTDFFcDljVjNkdFc3SUtaOE5HUE1HNDY2bDJyZG5BRUU0XzhtUHVKdWFmSVBKODNjR3ZFU2hR?oc=5",
-      "published": "2026-11-26T15:30:16Z",
-      "source": "Yahoo! Finance Canada",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Why Is Royal Caribbean (RCL) Up 5.3% Since Last Earnings Report? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQazZaYWdWLVE2QWRmc2xUbzQ3YXc0Tnlfd0lzYmFXQWFKTHE1aW8weW5ZSFJySTFXU0laNVlSNDNBdHk2d2ZsbUlrU0xUVk5rU0lzQ2EyUlluRG1UMjlXaFFBYnM3SXJQNW1XYzM4ZzJNX3dBZ3d5Q0RwMmo0R2QzV01lNWY1aC1fX0I0emoyU29KR3Iz?oc=5",
-      "published": "2026-11-26T15:30:16Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "PPG Industries (PPG) Up 5.2% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHExNzNwbUktQ01PZUI2V21KTXBLeXBnTXBnYmRzcjdxNVkzZUd4dFlEUUU0TFp3YlM0S01NVy1TMHc5TmluLVAtNmVzVWZaaEVxM3V2V2I2R1lfSmM2dnhfaEhQODhGcEFMa0VMRXZ0SmpjQzJteTJpd0JoTGlFZ1VVd1p0TjBvVXNOTTZiSHk?oc=5",
-      "published": "2026-11-26T15:30:16Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Pentair (PNR) Up 13.2% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMjF5dk9nQkpnRS1QZVExREZzaWpWNnE5dkdvcHFXREdmYVZabC1nTFN6TTNTYlJLaklTVndCSUMwM2xqVEd2VWpXMDdYUkdFQWRmY3lsLW1MOGpwUWJhTzI0bldWWXF4cnJuODJvNkVtV2lFcmRQUmtlVUQxMGVGM3g2T1dvZDc1NjdqV1hiajI?oc=5",
-      "published": "2026-11-26T15:30:16Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "NXP (NXPI) Down 3.5% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTA2WHBsQXFwc0hYeEZJWS1yMXZqVFYtejFxWWFCYmdCR0RlWVpzeWJFSXlLVU5PaTlSN04xdjg5dTRjM3pMWlk4S1dnNk9jaDhrNmlZMGRWVEtrOGZKYURkUjBJZnY3ZU9yM3lCUHM5d1l6blhBY29jZXBIOFVIRTdTdXRHS0g3Qmc?oc=5",
-      "published": "2026-11-26T15:30:15Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
-      "market": "US"
-    },
-    {
-      "title": "Nov Inc. (NOV) Down 11.5% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOTI3VHNRYkhJMFZOYVBoaVkzM0x3dU5Vd1djb3IxN2wzMlF2T1g3ZGdHN2lORFdHWVFONVZibHhnTUEzT19uRUxZUXhkMWh6YlZ3cVJLc25MbzZCY0FfRWc3QndIMUdPZXdYeDh0YmI1YTdKbEI5WWw3T3NrOFJkcmFobXNmNUh6SW50bw?oc=5",
-      "published": "2026-11-26T15:30:15Z",
-      "source": "Yahoo Finance",
-      "importance": "重点关注",
+      "title": "Nasdaq 100 futures up by 2.7% as volatile week ends - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZzdKOV9uRnNmX0ZEUndCN29HajYtZTdlS3IxRDBWTlFSZ0lteUZLRUhuU0Y4MW05MEpMaV9pbEtqbHc2SXRCdjRZQ3JjZkdQcVBSNGZGUHRhaEdvOU9vMnI2U0dBQlYtdmZsMUdvc2JrcHNSMHhzSFV3Z3BFMThMdFAxUFNXRll0RlV6cm93NzZCQ0lLdlJnc256VQ?oc=5",
+      "published": "2026-11-27T09:10:00Z",
+      "source": "Breakingthenews.net",
+      "importance": "一般财经",
       "market": "US"
     }
   ]
